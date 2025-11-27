@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Compass Agent | Diagnosis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="chat-container">
+        
+        <div id="fixed-header-section">
+            
+            <button id="new-chat-button" onclick="startNewChat()">
+                <span class="icon">➕</span> 
+            </button> 
+            
+            <div id="time-display"></div> 
+            
+            <div id="district-status-pill" data-status="awaiting">
+                Awaiting district
+            </div>
+            
+            <h1 class="neon-text">Health Compass Agent ⚕️</h1>
+            
+            <p class="tagline">Your virtual diagnosis assistant.</p>
+
+            <hr class="header-divider"> 
+            
+        </div>
+        <div id="messages">
+            
+            <div id="data-metrics-container">
+                <div class="metric-box">
+                    <span class="metric-label">DISEASES TRACKED</span>
+                    <span class="metric-value" id="disease-count">0</span>
+                </div>
+                <div class="metric-box">
+                    <span class="metric-label">DISTRICT COVERAGE</span>
+                    <span class="metric-value" id="district-count">0</span>
+                </div>
+                <div class="metric-box">
+                    <span class="metric-label">TREATMENT PROTOCOLS</span>
+                    <span class="metric-value" id="protocol-count">0</span>
+                </div>
+            </div>
+            <div class="message agent initial">Loading knowledge base...</div>
+        </div>
+
+    </div> 
+
+    <div id="input-bar-container">
+        <div id="input-area">
+            <input 
+                type="text" 
+                id="user-input" 
+                placeholder="Type your district, symptoms, or disease name here..." 
+                onkeypress="if(event.keyCode == 13) sendMessage()">
+            
+            <button id="detect-button" onclick="detectUserLocation()">
+                <span class="icon">📍</span> 
+            </button>
+            
+            <button id="send-button" onclick="sendMessage()">
+                <span class="icon">➤</span> 
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

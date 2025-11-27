@@ -1,0 +1,1591 @@
+[
+  {
+    "disease_name": "Ischemic Heart Disease (IHD)",
+    "symptoms": [
+      "Seene mein tez dard (chest pain)",
+      "Saans lene mein takleef (shortness of breath)",
+      "Thakaan",
+      "Paseena aana"
+    ],
+    "category": "Dangerous",
+    "specialty": "Cardiologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for chest pain/shortness of breath."
+  },
+  {
+    "disease_name": "Stroke (Cerebrovascular Disease)",
+    "symptoms": [
+      "Achaanak chehre ka latak jaana (facial droop)",
+      "Bhuja ya pair mein kamzori (arm/leg weakness)",
+      "Bolne/samajhne mein takleef (slurred speech)",
+      "Achaanak sir dard"
+    ],
+    "category": "Dangerous",
+    "specialty": "Neurologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately (F.A.S.T. signs)**."
+  },
+  {
+    "disease_name": "Type 2 Diabetes (Uncontrolled)",
+    "symptoms": [
+      "Zyada pyaas/bhukh lagna",
+      "Baar-baar peshab aana",
+      "Wazan kam hona",
+      "Dhundhla dikhna"
+    ],
+    "category": "Dangerous",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult doctor urgently to start/adjust medication. Seek emergency care if blood sugar is very high (ketoacidosis signs)."
+  },
+  {
+    "disease_name": "Chronic Kidney Disease (CKD)",
+    "symptoms": [
+      "Thakaan",
+      "Pairo mein sujan (edema)",
+      "Zyada/kam peshab aana",
+      "Khujli"
+    ],
+    "category": "Dangerous",
+    "specialty": "Nephrologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Nephrologist as soon as possible** for staging and treatment plan."
+  },
+  {
+    "disease_name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "symptoms": [
+      "Lambi khansi",
+      "Saans lene mein takleef (dyspnea)",
+      "Seene mein jakadan",
+      "Wheezing"
+    ],
+    "category": "Dangerous",
+    "specialty": "Pulmonologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Pulmonologist immediately** to start a management plan, especially if breathlessness worsens rapidly."
+  },
+  {
+    "disease_name": "Common Cancers (Oral, Breast, Lung)",
+    "symptoms": [
+      "Naya lump ya gath",
+      "Asamanya raktasrav (unusual bleeding)",
+      "Lambe samay tak theek na hone wala ghav",
+      "Anjana wazan kam hona"
+    ],
+    "category": "Dangerous",
+    "specialty": "Oncologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a doctor **immediately** for diagnosis and testing."
+  },
+  {
+    "disease_name": "Tuberculosis (TB)",
+    "symptoms": [
+      "3 hafte se zyada khansi",
+      "Shaam ko bukhar aana",
+      "Raat ko paseena aana",
+      "Wazan kam hona"
+    ],
+    "category": "Dangerous",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a doctor **immediately** for testing and to start the required antibiotic regimen."
+  },
+  {
+    "disease_name": "HIV/AIDS",
+    "symptoms": [
+      "Tez bukhar",
+      "Gale mein sujan",
+      "Thakaan",
+      "Wazan kam hona"
+    ],
+    "category": "Dangerous",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult an **Infectious Disease specialist immediately** for testing and to start ART (Antiretroviral Therapy)."
+  },
+  {
+    "disease_name": "Dementia/Alzheimer's Disease",
+    "symptoms": [
+      "Yaddasht kamzor hona",
+      "Sochne/faisla lene mein mushkil",
+      "Vichar/vyavhar mein badlav",
+      "Bhatak jaana"
+    ],
+    "category": "Dangerous",
+    "specialty": "Neurologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Neurologist** for diagnosis and to initiate symptom management."
+  },
+  {
+    "disease_name": "Severe Depression/Anxiety",
+    "symptoms": [
+      "Lagatar udasi/chinta",
+      "Khushi mehsoos na hona",
+      "Khane/neend mein badlav",
+      "Khud ko nuksaan pahunchane ke vichaar"
+    ],
+    "category": "Dangerous",
+    "specialty": "Psychiatrist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Psychiatrist immediately**. Seek **emergency help** if suicidal thoughts are present."
+  },
+  {
+    "disease_name": "Hypertension (Uncontrolled/Severe)",
+    "symptoms": [
+      "Tez sir dard",
+      "Chakkar aana",
+      "Naak se khoon aana (epistaxis)",
+      "Seene mein dard (uncommon)"
+    ],
+    "category": "Dangerous",
+    "specialty": "Cardiologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care** if BP $\\ge 180/120$ with severe symptoms."
+  },
+  {
+    "disease_name": "Chronic Liver Disease (Cirrhosis)",
+    "symptoms": [
+      "Peeliya (Jaundice)",
+      "Pet mein sujan (ascites)",
+      "Thakaan",
+      "Aasani se chot lagna"
+    ],
+    "category": "Dangerous",
+    "specialty": "Hepatologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Hepatologist immediately** for management and monitoring."
+  },
+  {
+    "disease_name": "Severe Pneumonia / Lower Respiratory Infection",
+    "symptoms": [
+      "Tez bukhar",
+      "Saans lene mein tez takleef",
+      "Balgham wali khansi",
+      "Seene mein dard"
+    ],
+    "category": "Dangerous",
+    "specialty": "Pulmonologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek medical care **immediately**, especially if breathing is difficult or fever is high."
+  },
+  {
+    "disease_name": "Severe Injuries (Accidents, Burns)",
+    "symptoms": [
+      "Bhari khoon behna (severe bleeding)",
+      "Haddi tootna (broken bones)",
+      "Jala hua ang (severe burns)",
+      "Tez dard"
+    ],
+    "category": "Dangerous",
+    "specialty": "Trauma Surgeon",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately (call emergency services)**."
+  },
+  {
+    "disease_name": "Severe Hearing Loss (Disabling)",
+    "symptoms": [
+      "Sunne ki kshamta kam hona",
+      "Bolne mein mushkil",
+      "Tinnitus (kaan mein awaaz)",
+      "Chakkar aana"
+    ],
+    "category": "Normal/Dangerous",
+    "specialty": "Otolaryngologist (ENT)",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "If **Sudden**: Consult ENT within 72 hours. If Gradual: See ENT/Audiologist within 14 days."
+  },
+  {
+    "disease_name": "Rheumatoid Arthritis (RA)",
+    "symptoms": [
+      "Subah jodon mein jakadan",
+      "Chhote jodon mein sujan/dard",
+      "Thakaan",
+      "Bukhar (kabhi-kabhi)"
+    ],
+    "category": "Dangerous",
+    "specialty": "Rheumatologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Rheumatologist immediately** to prevent joint damage."
+  },
+  {
+    "disease_name": "Systemic Lupus Erythematosus (Lupus)",
+    "symptoms": [
+      "Jodon ka dard/sujan",
+      "Chehre par butterfly rash",
+      "Thakaan",
+      "Bukhar"
+    ],
+    "category": "Dangerous",
+    "specialty": "Rheumatologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Rheumatologist immediately** for diagnosis and management."
+  },
+  {
+    "disease_name": "Inflammatory Bowel Disease (IBD)",
+    "symptoms": [
+      "Purani dast (chronic diarrhea)",
+      "Pet dard/akalan",
+      "Wazan kam hona",
+      "Mal mein khoon"
+    ],
+    "category": "Dangerous",
+    "specialty": "Gastroenterologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Gastroenterologist immediately** for diagnosis and treatment."
+  },
+  {
+    "disease_name": "Type 1 Diabetes Mellitus",
+    "symptoms": [
+      "Achaanak wazan kam hona",
+      "Tez pyaas",
+      "Baar-baar peshab",
+      "Thakaan"
+    ],
+    "category": "Dangerous",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek medical care **immediately** to start life-saving insulin therapy."
+  },
+  {
+    "disease_name": "Glaucoma",
+    "symptoms": [
+      "Dhundhla ya tunnel vision",
+      "Aankhon ka tez dard (Acute Angle-Closure)",
+      "Laal aankhein",
+      "Nausea/vomiting (Acute)"
+    ],
+    "category": "Dangerous",
+    "specialty": "Ophthalmologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. (If Acute Angle-Closure). Consult **Ophthalmologist immediately** for vision loss."
+  },
+  {
+    "disease_name": "Macular Degeneration (AMD)",
+    "symptoms": [
+      "Kendra mein dhundhla dikhna (Central vision loss)",
+      "Seedhi rekhaon ka tedha dikhna",
+      "Rang kam saaf dikhna",
+      "Padhne mein mushkil"
+    ],
+    "category": "Normal/Dangerous",
+    "specialty": "Ophthalmologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "Routine follow-up/supplements.",
+    "s3_trigger": "If **Sudden**: Consult Retina Specialist immediately. S2 (Dry): Routine follow-up/supplements."
+  },
+  {
+    "disease_name": "Cervical Cancer",
+    "symptoms": [
+      "Asamanya yoni se raktasrav (unusual vaginal bleeding)",
+      "Yoni se kharab dischaarge",
+      "Pelvic region mein dard",
+      "Sex ke dauran dard"
+    ],
+    "category": "Dangerous",
+    "specialty": "Gynecologic Oncologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Gynecologist immediately** for testing (Pap smear, biopsy)."
+  },
+  {
+    "disease_name": "Acute Leukemia",
+    "symptoms": [
+      "Aasani se chot lagna/khoon behna",
+      "Thakaan",
+      "Baar-baar infection",
+      "Bukhar"
+    ],
+    "category": "Dangerous",
+    "specialty": "Hematologist/Oncologist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek medical care **immediately** for urgent diagnosis and life-saving treatment."
+  },
+  {
+    "disease_name": "Bipolar Disorder",
+    "symptoms": [
+      "Mood mein tez utaar-chadhav (mania and depression)",
+      "Neend kam hona",
+      "Tez bolna/sochna",
+      "Khatarnak vyavhar"
+    ],
+    "category": "Dangerous",
+    "specialty": "Psychiatrist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Consult a **Psychiatrist immediately**. Seek **emergency help** if risk of harm is high."
+  },
+  {
+    "disease_name": "Appendicitis",
+    "symptoms": [
+      "Pet ke nichle daahine hisse mein tez dard",
+      "Ultiyan",
+      "Bukhar",
+      "Pet mein sujan"
+    ],
+    "category": "Dangerous",
+    "specialty": "General Surgeon",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "Khana-peena band karein, dard ki dawa na lein jo diagnosis ko chhipaaye.",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for sudden, shifting lower right abdominal pain."
+  },
+  {
+    "disease_name": "Cholera",
+    "symptoms": [
+      "Tez pani jaisa dast (rice-water stool)",
+      "Ultiyan",
+      "Tez dehydration",
+      "Pairo mein akalan"
+    ],
+    "category": "Dangerous",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": "N/A",
+    "timeline_s2_days": "N/A",
+    "s1_action": "N/A",
+    "s2_action": "N/A",
+    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for rapid, severe dehydration."
+  },
+  {
+    "disease_name": "Hypertension (Controlled/Stage I)",
+    "symptoms": [
+      "Aksar koi lakshan nahi (asymptomatic)",
+      "Halka sir dard (kabhi-kabhi)",
+      "Thakaan"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Cardiologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 30,
+    "s1_action": "Follow DASH diet, limit sodium, exercise, aur prescribed medicine lein.",
+    "s2_action": "Follow up with PCP within 1-3 months to check BP and medication effectiveness.",
+    "s3_trigger": "Agar BP $\\ge 180/120$ ho ya naye tez lakshan (severe headache, chest pain) ho toh turant doctor se milein."
+  },
+  {
+    "disease_name": "High Cholesterol (Hyperlipidemia)",
+    "symptoms": [
+      "Aksar koi lakshan nahi (asymptomatic)"
+    ],
+    "category": "Mild",
+    "specialty": "PCP/Cardiologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Diet low in saturated fat, high in fiber, regular exercise, aur prescribed medicine lein.",
+    "s2_action": "Follow up in 3 months for lipid panel check.",
+    "s3_trigger": "Agar aapko IHD, Stroke ke lakshan (chest pain, numbness) mehsoos ho toh turant doctor se milein."
+  },
+  {
+    "disease_name": "Obesity/Overweight (Mild-Moderate)",
+    "symptoms": [
+      "Shareer ka atirikt wazan",
+      "Thakaan",
+      "Saans lene mein halki takleef"
+    ],
+    "category": "Mild",
+    "specialty": "PCP/Dietitian",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Calorie-controlled diet, 150 mins exercise/week, wazan control karein.",
+    "s2_action": "Consult a Dietitian for a personalized plan. Weight loss goals set karein.",
+    "s3_trigger": "Agar aapko chest pain, tez saans phoolna, ya Type 2 Diabetes ke lakshan ho toh doctor se milein."
+  },
+  {
+    "disease_name": "Fatty Liver Disease (NAFLD)",
+    "symptoms": [
+      "Aksar koi lakshan nahi",
+      "Pet ke daahine upri hisse mein halka dard/bharipan",
+      "Thakaan"
+    ],
+    "category": "Mild",
+    "specialty": "Gastroenterologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Weight loss (7-10% of body weight), eliminate alcohol/sugar, aur healthy diet follow karein.",
+    "s2_action": "Consult a Gastroenterologist for monitoring (FibroScan) and further advice.",
+    "s3_trigger": "Agar Peeliya (Jaundice), pet mein sujan (Ascites) ho toh turant doctor se milein."
+  },
+  {
+    "disease_name": "Polycystic Ovary Syndrome (PCOS)",
+    "symptoms": [
+      "Aniyamit mahavari (irregular periods)",
+      "Chehre/shareer par atirikt baal",
+      "Acne",
+      "Wazan badhna"
+    ],
+    "category": "Normal",
+    "specialty": "Gynecologist/Endocrinologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 30,
+    "s1_action": "Weight management, low glycemic diet, exercise, aur lifestyle changes karein.",
+    "s2_action": "Consult a Gynecologist for hormonal/metabolic assessment and medication.",
+    "s3_trigger": "Agar tez aur lambi bleeding ho toh turant doctor se milein."
+  },
+  {
+    "disease_name": "Type 2 Diabetes (Controlled)",
+    "symptoms": [
+      "Lakshan niyamit taur par control mein"
+    ],
+    "category": "Normal",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Strict adherence to medication, diet, blood sugar monitoring, aur exercise karein.",
+    "s2_action": "Routine follow-up with Endocrinologist every 3-6 months.",
+    "s3_trigger": "Agar blood sugar lagatar high ho ya low ho, ya Type 1 ke lakshan ho toh turant doctor se milein."
+  },
+  {
+    "disease_name": "Hypothyroidism",
+    "symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Dry skin",
+      "Constipation"
+    ],
+    "category": "Normal",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 30,
+    "s1_action": "Strict adherence to prescribed medication (Levothyroxine) dosage.",
+    "s2_action": "Consult Endocrinologist every 1-3 months for blood TSH/T4 checks.",
+    "s3_trigger": "If new or severe symptoms occur (e.g., severe fatigue, altered mental status), consult immediately."
+  },
+  {
+    "disease_name": "Endometriosis",
+    "symptoms": [
+      "Severe pelvic pain during periods",
+      "Pain during intercourse",
+      "Chronic lower back pain",
+      "Painful bowel movements"
+    ],
+    "category": "Normal",
+    "specialty": "Gynecologist",
+    "timeline_s1_days": 10,
+    "timeline_s2_days": 14,
+    "s1_action": "Use heat therapy and OTC NSAIDs (Ibuprofen, Naproxen) for pain.",
+    "s2_action": "Consult a Gynecologist to discuss hormonal/surgical management options.",
+    "s3_trigger": "Sudden, extremely severe, or unrelenting pelvic pain."
+  },
+  {
+    "disease_name": "Chronic Joint Pain (Arthralgia)",
+    "symptoms": [
+      "Persistent ache or stiffness in joints",
+      "Swelling (sometimes)",
+      "Reduced range of motion"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedic Specialist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Use RICE (Rest, Ice, Compression, Elevation) for flare-ups, low-impact exercise.",
+    "s2_action": "Consult a Physical Therapist for exercise program or specialist if pain persists.",
+    "s3_trigger": "Joint becomes hot, red, and swollen rapidly, or severe fever with joint pain."
+  },
+  {
+    "disease_name": "Chronic Back Pain",
+    "symptoms": [
+      "Persistent ache or stiffness in the back",
+      "Pain radiating down the leg (sciatica)",
+      "Limited mobility"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedic Specialist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Maintain gentle activity, use heat/ice, improve posture, OTC NSAIDs.",
+    "s2_action": "Consult Physical Therapist for core strengthening and specialized exercises.",
+    "s3_trigger": "Loss of bladder/bowel control, or sudden severe leg weakness (Emergency)."
+  },
+  {
+    "disease_name": "Generalized Anxiety Disorder (Mild-Moderate)",
+    "symptoms": [
+      "Excessive worry",
+      "Restlessness/on edge",
+      "Difficulty concentrating",
+      "Muscle tension"
+    ],
+    "category": "Normal",
+    "specialty": "Psychiatrist/Psychologist",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 30,
+    "s1_action": "Practice mindfulness, breathing exercises, reduce caffeine and alcohol.",
+    "s2_action": "Start therapy (CBT) with a Psychologist/Counselor.",
+    "s3_trigger": "Panic attack that feels like a heart attack, or uncontrollable, paralyzing anxiety."
+  },
+  {
+    "disease_name": "Clinical Depression (Mild-Moderate)",
+    "symptoms": [
+      "Persistent sadness/hopelessness",
+      "Loss of interest (anhedonia)",
+      "Changes in appetite/sleep",
+      "Low energy"
+    ],
+    "category": "Normal",
+    "specialty": "Psychiatrist/Psychologist",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 30,
+    "s1_action": "Maintain routine, light physical activity, prioritize sleep, seek social support.",
+    "s2_action": "Consult a Psychologist/Counselor for therapy and Psychiatrist for medication assessment.",
+    "s3_trigger": "Self-harm or suicidal thoughts (Seek emergency help immediately)."
+  },
+  {
+    "disease_name": "Tension-Type Headache (TTH)",
+    "symptoms": [
+      "Dull, aching pain around the head",
+      "Tight band sensation",
+      "Not severe, no nausea"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Neurologist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 30,
+    "s1_action": "Use OTC relievers (Acetaminophen, Ibuprofen), rest, hydrate.",
+    "s2_action": "Consult PCP if headaches occur $>15$ days/month (chronic TTH).",
+    "s3_trigger": "Headache accompanied by fever, stiff neck, confusion, or sudden severe onset (Emergency)."
+  },
+  {
+    "disease_name": "Migraine Headaches",
+    "symptoms": [
+      "Severe throbbing/pulsing pain",
+      "Usually one side of the head",
+      "Nausea/Vomiting",
+      "Sensitivity to light/sound"
+    ],
+    "category": "Normal",
+    "specialty": "Neurologist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 7,
+    "s1_action": "Use OTC relievers early, rest in dark, quiet room, manage triggers.",
+    "s2_action": "Consult Neurologist for prescription abortive/preventative drugs if attacks are frequent/severe.",
+    "s3_trigger": "The 'worst headache of your life' (Thunderclap headache - Emergency)."
+  },
+  {
+    "disease_name": "Arthritis / Osteoarthritis",
+    "symptoms": [
+      "Joint pain that worsens with activity",
+      "Stiffness after rest",
+      "Grating sensation in joints"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedic Specialist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Use heat/cold, maintain healthy weight, low-impact exercise, OTC NSAIDs.",
+    "s2_action": "Consult Physical Therapist/Orthopedic Specialist for long-term management.",
+    "s3_trigger": "Sudden inability to bear weight on the joint, or severe, unexplained swelling."
+  },
+  {
+    "disease_name": "Osteoporosis",
+    "symptoms": [
+      "Often asymptomatic until a fracture occurs",
+      "Loss of height",
+      "Stooped posture"
+    ],
+    "category": "Normal",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Ensure adequate Calcium/Vitamin D, engage in weight-bearing exercise.",
+    "s2_action": "Consult PCP for DEXA scan and prescription medication (e.g., bisphosphonates).",
+    "s3_trigger": "Fracture from a minor fall or trauma (Seek urgent orthopedic care)."
+  },
+  {
+    "disease_name": "Carpal Tunnel Syndrome",
+    "symptoms": [
+      "Numbness/tingling in thumb, index, middle fingers",
+      "Weakness in hand grip",
+      "Worse at night"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedic Surgeon",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Wear wrist splint (especially at night), take frequent breaks, use OTC NSAIDs.",
+    "s2_action": "Consult Specialist if pain/numbness persists for injections/surgery planning.",
+    "s3_trigger": "Rapidly worsening hand weakness or loss of muscle at the base of the thumb."
+  },
+  {
+    "disease_name": "Benign Prostatic Hyperplasia (BPH)",
+    "symptoms": [
+      "Frequent/urgent need to urinate",
+      "Difficulty starting urination",
+      "Weak urine stream",
+      "Waking up at night to urinate"
+    ],
+    "category": "Normal",
+    "specialty": "Urologist",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 30,
+    "s1_action": "Avoid fluids before bed, limit caffeine/alcohol, scheduled urination.",
+    "s2_action": "Consult Urologist for diagnosis, symptom severity scoring, and prescribed medication.",
+    "s3_trigger": "Complete inability to urinate (Acute Urinary Retention - Emergency)."
+  },
+  {
+    "disease_name": "Allergic Rhinitis (Hay Fever)",
+    "symptoms": [
+      "Runny/stuffy nose",
+      "Sneezing",
+      "Itchy/watery eyes",
+      "Post-nasal drip"
+    ],
+    "category": "Normal",
+    "specialty": "Allergist/Immunologist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 30,
+    "s1_action": "Use OTC Antihistamines, Nasal Steroid Sprays, avoid known allergens, saline rinse.",
+    "s2_action": "Consult Allergist for testing/immunotherapy (allergy shots) if symptoms are severe/chronic.",
+    "s3_trigger": "Severe difficulty breathing or asthma flare-up."
+  },
+  {
+    "disease_name": "Psoriasis / Vitiligo",
+    "symptoms": [
+      "Psoriasis: Red, flaky, silvery patches (plaques)",
+      "Vitiligo: Loss of skin color in patches",
+      "Itching"
+    ],
+    "category": "Normal",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 30,
+    "s1_action": "Moisturize frequently, use OTC creams (Salicylic Acid/Coal Tar for Psoriasis), avoid triggers.",
+    "s2_action": "Consult Dermatologist if severe/spreading for prescription topical/systemic treatment.",
+    "s3_trigger": "If skin lesions become infected, or cover a large percentage of the body rapidly."
+  },
+  {
+    "disease_name": "Anemia (Nutritional/Iron Deficiency)",
+    "symptoms": [
+      "Fatigue/Weakness",
+      "Pale skin (pallor)",
+      "Shortness of breath",
+      "Dizziness"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Hematologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 30,
+    "s1_action": "Take appropriate supplement (Iron with Vitamin C) as per PCP advice. Adjust diet.",
+    "s2_action": "Consult PCP for blood tests to confirm cause, deficiency type (Iron, B12, Folate), and track levels.",
+    "s3_trigger": "Severe fatigue/weakness, or chest pain (Seek urgent care)."
+  },
+  {
+    "disease_name": "Vitamin D Deficiency",
+    "symptoms": [
+      "Muscle weakness/bone pain",
+      "Fatigue",
+      "Frequent illness"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Endocrinologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Take prescribed dosage of Vitamin D3 supplements daily, ensure safe sun exposure.",
+    "s2_action": "Consult PCP for blood test to check levels after 3-6 months to adjust dose.",
+    "s3_trigger": "None specific, but severe symptoms of hypocalcemia (e.g., muscle cramps) need attention."
+  },
+  {
+    "disease_name": "Asthma",
+    "symptoms": [
+      "Wheezing (whistling sound during breathing)",
+      "Coughing (especially at night/exercise)",
+      "Chest tightness",
+      "Shortness of breath"
+    ],
+    "category": "Normal",
+    "specialty": "Pulmonologist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 7,
+    "s1_action": "Always carry and use prescribed rescue inhaler (e.g., Salbutamol) during attacks.",
+    "s2_action": "Consult doctor for control medication/management plan. Identify and avoid triggers.",
+    "s3_trigger": "If rescue inhaler is ineffective, or symptoms worsen rapidly (Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Insomnia (Acute/Stress-related)",
+    "symptoms": [
+      "Difficulty falling or staying asleep",
+      "Waking up too early",
+      "Daytime fatigue"
+    ],
+    "category": "Normal",
+    "specialty": "Sleep Specialist/PCP",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Implement strict sleep hygiene (routine, dark/cool room). Use OTC aids short-term (Melatonin).",
+    "s2_action": "Consult Sleep Specialist for CBT-I (Cognitive Behavioral Therapy for Insomnia) if chronic.",
+    "s3_trigger": "Worsening daytime function, dependency on sleeping pills."
+  },
+  {
+    "disease_name": "Dental Caries (Cavities)",
+    "symptoms": [
+      "Tooth pain (especially when eating sweets)",
+      "Sensitivity to hot/cold",
+      "Visible pits/holes in the tooth"
+    ],
+    "category": "Normal",
+    "specialty": "Dentist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 7,
+    "s1_action": "Maintain good oral hygiene; use OTC pain relief (Acetaminophen/Ibuprofen) temporarily.",
+    "s2_action": "Consult a Dentist **immediately** for a filling or other necessary treatment (e.g., root canal).",
+    "s3_trigger": "Severe, throbbing, unrelenting tooth pain, or facial swelling (Urgent dental care)."
+  },
+  {
+    "disease_name": "Gum Disease (Gingivitis)",
+    "symptoms": [
+      "Red, swollen gums",
+      "Gums that bleed easily when brushing",
+      "Bad breath (halitosis)"
+    ],
+    "category": "Normal",
+    "specialty": "Dentist/Periodontist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Brush twice and floss daily, use mouthwash.",
+    "s2_action": "Schedule a professional dental cleaning and check-up.",
+    "s3_trigger": "Severe, painful gum abscess (Periodontitis) or loose teeth."
+  },
+  {
+    "disease_name": "Refractive Errors (Myopia/Hyperopia)",
+    "symptoms": [
+      "Blurred vision (near/far)",
+      "Headaches",
+      "Eye strain"
+    ],
+    "category": "Normal",
+    "specialty": "Optometrist/Ophthalmologist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 30,
+    "s1_action": "Follow 20-20-20 rule for screens; use artificial tears for dryness.",
+    "s2_action": "Consult Optometrist for a comprehensive eye exam and corrective lenses/contacts.",
+    "s3_trigger": "Sudden, unexplained vision loss or double vision (Emergency)."
+  },
+  {
+    "disease_name": "Cataracts",
+    "symptoms": [
+      "Cloudy/blurry vision",
+      "Poor night vision",
+      "Fading of colors",
+      "Halos around lights"
+    ],
+    "category": "Normal",
+    "specialty": "Ophthalmologist",
+    "timeline_s1_days": 90,
+    "timeline_s2_days": 90,
+    "s1_action": "Wear sunglasses, ensure adequate lighting, regular vision checks.",
+    "s2_action": "Consult Ophthalmologist for monitoring and surgical planning when vision significantly interferes with daily life.",
+    "s3_trigger": "Sudden, severe vision loss in one or both eyes."
+  },
+  {
+    "disease_name": "Mild Hearing Loss",
+    "symptoms": [
+      "Difficulty hearing high-pitched sounds",
+      "Trouble following conversations in noisy places",
+      "Often asking others to repeat"
+    ],
+    "category": "Normal",
+    "specialty": "ENT/Audiologist",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 30,
+    "s1_action": "Use ear protection in loud environments, try to face the speaker.",
+    "s2_action": "Consult Audiologist for a comprehensive hearing test and to discuss hearing aids/amplification.",
+    "s3_trigger": "Sudden hearing loss (Consult ENT within 72 hours)."
+  },
+  {
+    "disease_name": "Fungal Skin Infections (Tinea)",
+    "symptoms": [
+      "Itchy, red, circular rash (Ringworm)",
+      "Flaking/peeling skin",
+      "Burning sensation"
+    ],
+    "category": "Normal",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 14,
+    "s1_action": "Apply OTC Topical Antifungal Creams/Powders (e.g., Clotrimazole) 2x daily, keep area dry.",
+    "s2_action": "Consult Dermatologist if no improvement after 2 weeks or if infection spreads widely.",
+    "s3_trigger": "Signs of bacterial secondary infection (increased redness, pus, severe pain)."
+  },
+  {
+    "disease_name": "Acne Vulgaris",
+    "symptoms": [
+      "Pimples, blackheads, whiteheads",
+      "Oily skin",
+      "Inflammatory cysts/nodules (severe)"
+    ],
+    "category": "Normal",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 60,
+    "s1_action": "Wash gently, use OTC topical treatments (Benzoyl Peroxide, Salicylic Acid), do not pick.",
+    "s2_action": "Consult Dermatologist if severe/scarring for prescription meds (retinoids, oral antibiotics).",
+    "s3_trigger": "Acne is rapidly worsening or causing significant psychological distress."
+  },
+  {
+    "disease_name": "Dermatitis / Eczema",
+    "symptoms": [
+      "Dry, itchy, red patches of skin",
+      "Cracked/scaly skin",
+      "Often on hands, neck, inner elbows, knees"
+    ],
+    "category": "Normal",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Moisturize frequently (especially after bathing), avoid triggers, use mild Hydrocortisone (Short-term).",
+    "s2_action": "Consult Dermatologist if severe or not controlled by OTC treatments for prescription creams.",
+    "s3_trigger": "Skin becomes infected (pus, increased redness, fever)."
+  },
+  {
+    "disease_name": "Alopecia Areata",
+    "symptoms": [
+      "Round, patchy hair loss (often coin-sized)",
+      "May affect scalp or body hair",
+      "Usually no pain or inflammation"
+    ],
+    "category": "Normal",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 30,
+    "s1_action": "Protect exposed scalp from sun, manage stress, use Minoxidil (Rogaine) as discussed with doctor.",
+    "s2_action": "Consult Dermatologist for diagnosis and potential corticosteroid injections.",
+    "s3_trigger": "Rapid, total hair loss (Alopecia Totalis/Universalis)."
+  },
+  {
+    "disease_name": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "Pain/burning during urination (dysuria)",
+      "Frequent/urgent need to urinate",
+      "Cloudy/strong-smelling urine",
+      "Lower abdominal discomfort"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Urologist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 1,
+    "s1_action": "Drink plenty of water, use Phenazopyridine (Symptom relief only).",
+    "s2_action": "Consult PCP **immediately** for prescribed antibiotics (requires urine culture).",
+    "s3_trigger": "If fever, back/flank pain, nausea/vomiting (Kidney infection - Seek urgent care)."
+  },
+  {
+    "disease_name": "Acute Ear Infections (Otitis Media)",
+    "symptoms": [
+      "Ear pain (otalgia)",
+      "Fever",
+      "Difficulty hearing",
+      "Fluid drainage (sometimes)"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/ENT",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 2,
+    "s1_action": "Use Acetaminophen/Ibuprofen for pain/fever. Apply warm compress.",
+    "s2_action": "Consult PCP for diagnosis; may need prescribed antibiotics if bacterial (especially in children).",
+    "s3_trigger": "Severe pain, swelling behind the ear, or severe dizziness."
+  },
+  {
+    "disease_name": "Acute Muscle Strains/Sprains",
+    "symptoms": [
+      "Sudden pain in muscle/joint after injury",
+      "Swelling/bruising",
+      "Difficulty using the affected area"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Physical Therapist",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 7,
+    "s1_action": "Use RICE protocol (Rest, Ice, Compression, Elevation). Use OTC NSAIDs (Ibuprofen).",
+    "s2_action": "Consult Physical Therapist if pain persists after 1 week for a rehab plan.",
+    "s3_trigger": "Inability to bear weight or move the limb at all (May indicate a fracture or severe tear)."
+  },
+  {
+    "disease_name": "Common Viral Cold / Flu (Influenza)",
+    "symptoms": [
+      "Cold: Runny nose, sneezing, mild sore throat.",
+      "Flu: High fever, severe body aches, fatigue, dry cough."
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Rest, hydrate, use symptom relief (Acetaminophen/Ibuprofen, decongestants, cough suppressants).",
+    "s2_action": "Flu: Consult PCP within 48 hours of onset for antiviral medication.",
+    "s3_trigger": "If severe shortness of breath/chest pain, confusion, or high fever not subsiding (Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Acute Bronchitis",
+    "symptoms": [
+      "Persistent cough (often with mucus)",
+      "Sore throat",
+      "Chest discomfort",
+      "Mild fever"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 21,
+    "s1_action": "Use humidifier, fluids, OTC cough medicine/expectorants. Rest.",
+    "s2_action": "Consult PCP if cough lasts $>3$ weeks or if mucus is green/bloody (may need antibiotics).",
+    "s3_trigger": "Shortness of breath or high fever (Rule out Pneumonia)."
+  },
+  {
+    "disease_name": "Mononucleosis (Mono)",
+    "symptoms": [
+      "Severe fatigue",
+      "High fever",
+      "Swollen lymph nodes in neck/armpits",
+      "Severe sore throat"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 60,
+    "s1_action": "Absolute rest; use Acetaminophen/Ibuprofen for fever/pain. Avoid contact sports for 1 month (spleen risk).",
+    "s2_action": "Consult PCP for diagnosis and supportive care. Fatigue may last weeks.",
+    "s3_trigger": "Sudden sharp left upper abdominal pain (Splenic rupture - Emergency)."
+  },
+  {
+    "disease_name": "Acute Gastroenteritis / Diarrhea",
+    "symptoms": [
+      "Nausea/Vomiting",
+      "Diarrhea (loose/watery stools)",
+      "Abdominal cramps",
+      "Mild fever (sometimes)"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 3,
+    "s1_action": "Rehydrate with Oral Rehydration Salts (ORS), eat bland foods (BRAT diet). Loperamide use with caution.",
+    "s2_action": "Consult PCP if symptoms last $>3$ days or if signs of severe dehydration.",
+    "s3_trigger": "Severe, bloody diarrhea, or signs of extreme dehydration (dizziness, no urination - Emergency)."
+  },
+  {
+    "disease_name": "Hepatitis A/E (Acute)",
+    "symptoms": [
+      "Fatigue",
+      "Jaundice (yellow skin/eyes)",
+      "Dark urine/pale stools",
+      "Nausea/Vomiting"
+    ],
+    "category": "Normal",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": 14,
+    "timeline_s2_days": 30,
+    "s1_action": "Strict rest, hydration, **avoid all alcohol/Acetaminophen/NSAIDs** (harmful to liver).",
+    "s2_action": "Consult Specialist for supportive management and monitoring of liver function.",
+    "s3_trigger": "Signs of hepatic failure (severe confusion, bleeding, severe vomiting - Emergency)."
+  },
+  {
+    "disease_name": "Malaria (Uncomplicated)",
+    "symptoms": [
+      "Cyclical high fever with chills/shivering",
+      "Severe headache",
+      "Body aches",
+      "Nausea/Vomiting"
+    ],
+    "category": "Normal",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 1,
+    "s1_action": "Use Acetaminophen/Ibuprofen for symptom relief only. Hydrate.",
+    "s2_action": "Seek **immediate blood test/treatment** with prescribed antimalarials as directed by doctor.",
+    "s3_trigger": "If severe symptoms (convulsions, unconsciousness, severe breathing difficulty) seek **emergency care**."
+  },
+  {
+    "disease_name": "Dengue Fever (Uncomplicated)",
+    "symptoms": [
+      "Sudden high fever",
+      "Severe joint/muscle pain (breakbone fever)",
+      "Rash (sometimes)",
+      "Pain behind the eyes"
+    ],
+    "category": "Normal",
+    "specialty": "Infectious Disease Specialist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 1,
+    "s1_action": "Use **Acetaminophen only** (AVOID NSAIDs/Aspirin). Maintain high hydration.",
+    "s2_action": "Consult doctor **immediately** for monitoring (platelet count) and hydration management.",
+    "s3_trigger": "If severe abdominal pain, persistent vomiting, bleeding from nose/gums, or cold/clammy skin (Dengue Hemorrhagic Fever - Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Constipation",
+    "symptoms": [
+      "Fewer than 3 bowel movements per week",
+      "Hard/dry stools",
+      "Straining during bowel movements",
+      "Feeling of incomplete evacuation"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Gastroenterologist",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 7,
+    "s1_action": "Increase water/fiber intake, exercise, use OTC fiber supplements, or osmotic laxatives.",
+    "s2_action": "Consult PCP/Gastroenterologist if chronic, severe, or unresponsive to lifestyle changes.",
+    "s3_trigger": "Constipation accompanied by severe abdominal pain, vomiting, or blood in the stool (Seek urgent care)."
+  },
+  {
+    "disease_name": "Acid Reflux (GERD)",
+    "symptoms": [
+      "Burning sensation in the chest (heartburn)",
+      "Sour or bitter taste in the throat/mouth",
+      "Difficulty swallowing (dysphagia)"
+    ],
+    "category": "Normal",
+    "specialty": "Gastroenterologist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 30,
+    "s1_action": "Avoid trigger foods (spicy, fatty), don't lie down after eating, elevate head of bed. Use Antacids/H2 Blockers.",
+    "s2_action": "Consult Gastroenterologist if symptoms are daily/severe or not controlled by OTC meds, for prescription PPIs.",
+    "s3_trigger": "Chest pain accompanied by sweating/shortness of breath (Rule out Cardiac issues - Emergency)."
+  },
+  {
+    "disease_name": "Nausea and Vomiting (Acute)",
+    "symptoms": [
+      "Feeling of sickness in the stomach",
+      "Throwing up food/fluid"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 2,
+    "s1_action": "Sip clear liquids (ORS), bland diet. Use OTC antiemetics (Dimenhydrinate).",
+    "s2_action": "Consult PCP if vomiting persists $>48$ hours or with severe symptoms (fever, blood in vomit).",
+    "s3_trigger": "Inability to keep liquids down, or vomiting blood (Seek urgent care)."
+  },
+  {
+    "disease_name": "Hemorrhoids (Piles)",
+    "symptoms": [
+      "Pain/itching around the anus",
+      "Bleeding during bowel movements",
+      "A lump/swelling near the anus"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Gastroenterologist",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Prevent straining (fiber/water), sitz baths, use topical Hemorrhoid creams/suppositories.",
+    "s2_action": "Consult PCP/Gastroenterologist if bleeding/pain is frequent or severe for banding/surgical options.",
+    "s3_trigger": "Excessive, persistent bleeding, or severe anal pain."
+  },
+  {
+    "disease_name": "Minor Headache",
+    "symptoms": [
+      "Mild, localized pain in the head",
+      "Non-disruptive to daily activity"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 7,
+    "s1_action": "Rest, hydrate, OTC relief (Acetaminophen, Ibuprofen, Aspirin).",
+    "s2_action": "Consult PCP if headaches become more frequent or severe.",
+    "s3_trigger": "If accompanied by fever, stiff neck, confusion, or sudden severe onset (Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Sore Throat (Acute Pharyngitis)",
+    "symptoms": [
+      "Pain/scratchiness in the throat",
+      "Difficulty swallowing",
+      "Redness/swelling of the tonsils"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 7,
+    "s1_action": "Lozenges, saltwater gargles, warm fluids, pain relief (Acetaminophen/Ibuprofen).",
+    "s2_action": "Consult PCP if severe, lasts $>5$ days, or for Strep test/prescribed antibiotics.",
+    "s3_trigger": "Severe difficulty breathing or inability to swallow saliva (Seek urgent care)."
+  },
+  {
+    "disease_name": "Tinnitus",
+    "symptoms": [
+      "Ringing, buzzing, or roaring sound in the ears",
+      "May be intermittent or continuous"
+    ],
+    "category": "Normal",
+    "specialty": "ENT/Audiologist",
+    "timeline_s1_days": 30,
+    "timeline_s2_days": 30,
+    "s1_action": "Avoid loud noise, use masking sounds (white noise), manage stress.",
+    "s2_action": "Consult ENT/Audiologist to find underlying cause and discuss noise therapy/management.",
+    "s3_trigger": "Sudden onset tinnitus, especially if accompanied by hearing loss or severe vertigo."
+  },
+  {
+    "disease_name": "Dizziness / Vertigo",
+    "symptoms": [
+      "Dizziness: Feeling lightheaded, unsteady.",
+      "Vertigo: Sensation of spinning/moving (even when stationary)."
+    ],
+    "category": "Normal",
+    "specialty": "ENT/Neurologist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 7,
+    "s1_action": "Sit down immediately, move slowly, avoid sudden position changes. OTC Meclizine (for vertigo).",
+    "s2_action": "Consult ENT/Neurologist for diagnosis (e.g., BPPV, Meniere's disease).",
+    "s3_trigger": "If accompanied by severe headache, weakness, slurred speech, chest pain (Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Catarrh",
+    "symptoms": [
+      "Excessive mucus/phlegm buildup in the nose/throat",
+      "Stuffy nose",
+      "Post-nasal drip",
+      "Throat clearing"
+    ],
+    "category": "Normal",
+    "specialty": "ENT",
+    "timeline_s1_days": 7,
+    "timeline_s2_days": 14,
+    "s1_action": "Daily Saline Nasal Sprays/Rinses, humidifier, avoid irritants. OTC decongestants (short-term).",
+    "s2_action": "Consult ENT to check for underlying allergies, sinus infection, or polyps.",
+    "s3_trigger": "Fever, severe facial pain, or thick, colored nasal discharge."
+  },
+  {
+    "disease_name": "Cellulitis",
+    "symptoms": [
+      "Red, swollen, warm skin area",
+      "Pain/tenderness at the site",
+      "Fever/Chills"
+    ],
+    "category": "Normal",
+    "specialty": "PCP/Infectious Disease Specialist",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 1,
+    "s1_action": "Elevate the affected limb. Use Acetaminophen/Ibuprofen for symptoms.",
+    "s2_action": "Consult doctor **immediately** for prescribed antibiotics (requires rapid treatment).",
+    "s3_trigger": "If spreading rapidly, red streaking, or high fever/vomiting (Seek **emergency care**)."
+  },
+  {
+    "disease_name": "Diarrheal Diseases",
+    "symptoms": [
+      "Loose, watery stools",
+      "Abdominal cramps",
+      "Nausea/Vomiting (sometimes)"
+    ],
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 3,
+    "s1_action": "Rehydrate with Oral Rehydration Salts (ORS), eat bland diet. Loperamide can be used (use with caution).",
+    "s2_action": "Consult PCP if lasts $>3$ days, or with fever/blood/signs of dehydration.",
+    "s3_trigger": "Severe, bloody diarrhea, or signs of extreme dehydration (dizziness, reduced urination - Emergency)."
+  },
+  {
+    "disease_name": "Common Cold",
+    "symptoms": [
+      "Runny nose",
+      "sneezing",
+      "mild sore throat",
+      "congestion"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 7,
+    "s1_action": "Rest, hydration, OTC pain relief.",
+    "s2_action": "Nasal decongestants, salt water gargle.",
+    "s3_trigger": "Fever >102°F, symptoms >10 days, difficulty breathing."
+  },
+  {
+    "disease_name": "Influenza (Flu)",
+    "symptoms": [
+      "High fever",
+      "severe body ache",
+      "fatigue",
+      "cough",
+      "chills"
+    ],
+    "category": "Normal",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 10,
+    "s1_action": "Rest, plenty of fluids, Acetaminophen/Ibuprofen.",
+    "s2_action": "Antiviral medication (if prescribed early), isolation.",
+    "s3_trigger": "Shortness of breath, chest pain, confusion, persistent high fever."
+  },
+  {
+    "disease_name": "Fever",
+    "symptoms": [
+      "High body temperature (>99.5°F)",
+      "chills",
+      "sweating"
+    ],
+    "category": "Normal",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 5,
+    "s1_action": "Hydration, light clothing, Acetaminophen/Ibuprofen.",
+    "s2_action": "Tepid sponging, monitoring temperature.",
+    "s3_trigger": "Fever >103°F, fever lasting >3 days, severe headache/stiffness."
+  },
+  {
+    "disease_name": "Cough",
+    "symptoms": [
+      "Dry or wet cough",
+      "throat irritation",
+      "chest congestion"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 5,
+    "timeline_s2_days": 14,
+    "s1_action": "Hydration, lozenges, vaporizers.",
+    "s2_action": "OTC cough syrups (suppressants/expectorants).",
+    "s3_trigger": "Coughing up blood, severe chest pain, cough >3 weeks."
+  },
+  {
+    "disease_name": "Sore Throat",
+    "symptoms": [
+      "Pain/scratchiness in the throat",
+      "difficulty swallowing"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 7,
+    "s1_action": "Warm salt water gargles, lozenges, warm liquids.",
+    "s2_action": "Throat spray, OTC anti-inflammatory medication.",
+    "s3_trigger": "Severe difficulty swallowing/breathing, fever, white patches on tonsils."
+  },
+  {
+    "disease_name": "Headache",
+    "symptoms": [
+      "Dull or throbbing pain in the head"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 3,
+    "s1_action": "Rest in a dark room, hydration, OTC pain reliever.",
+    "s2_action": "Identify and avoid triggers (e.g., stress, dehydration).",
+    "s3_trigger": "Sudden severe headache, weakness/numbness, fever/neck stiffness."
+  },
+  {
+    "disease_name": "Migraine",
+    "symptoms": [
+      "Severe, pulsing pain on one side of the head",
+      "sensitivity to light/sound",
+      "nausea"
+    ],
+    "category": "Normal",
+    "specialty": "Neurologist",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Rest, hydration, specific migraine medication (Triptans).",
+    "s2_action": "Avoidance of known triggers (food, environment), stress management.",
+    "s3_trigger": "Sudden change in headache pattern, paralysis/visual loss."
+  },
+  {
+    "disease_name": "Diarrhea",
+    "symptoms": [
+      "Loose, watery stools",
+      "urgency",
+      "abdominal cramps"
+    ],
+    "category": "Normal",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 7,
+    "s1_action": "Oral Rehydration Solution (ORS), bland diet (BRAT).",
+    "s2_action": "OTC anti-diarrheal medication (Loperamide - use with caution).",
+    "s3_trigger": "Dehydration (dry mouth, sunken eyes), blood/mucus in stool, fever."
+  },
+  {
+    "disease_name": "Constipation",
+    "symptoms": [
+      "Infrequent bowel movements",
+      "difficulty passing stool",
+      "bloating"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Increase fiber intake, plenty of water, exercise.",
+    "s2_action": "OTC laxatives or stool softeners (short-term use).",
+    "s3_trigger": "Severe abdominal pain, inability to pass gas, vomiting."
+  },
+  {
+    "disease_name": "Indigestion",
+    "symptoms": [
+      "Discomfort/pain in the upper abdomen",
+      "feeling full",
+      "burping"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 3,
+    "s1_action": "Avoid triggers (spicy/fatty food), eat slowly.",
+    "s2_action": "Antacids (e.g., Tums) or H2 blockers.",
+    "s3_trigger": "Blood in stool or vomit, unintentional weight loss, persistent symptoms."
+  },
+  {
+    "disease_name": "Vomiting / Nausea",
+    "symptoms": [
+      "Feeling sick to the stomach",
+      "forceful emptying of stomach"
+    ],
+    "category": "Normal",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 2,
+    "s1_action": "Sip clear fluids (ORS), avoid solid food.",
+    "s2_action": "Bland diet when symptoms ease, anti-nausea medication.",
+    "s3_trigger": "Inability to keep fluids down for >12 hours, severe abdominal pain, signs of dehydration."
+  },
+  {
+    "disease_name": "Acidity / Heartburn",
+    "symptoms": [
+      "Burning pain in the chest/throat",
+      "sour taste"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 1,
+    "timeline_s2_days": 2,
+    "s1_action": "Avoid trigger foods, do not lie down immediately after eating.",
+    "s2_action": "Antacids, Proton Pump Inhibitors (PPIs) - (short term).",
+    "s3_trigger": "Symptoms resistant to OTC meds, difficulty swallowing (dysphagia)."
+  },
+  {
+    "disease_name": "Allergies",
+    "symptoms": [
+      "Sneezing",
+      "runny nose",
+      "itchy eyes",
+      "skin rash",
+      "hives"
+    ],
+    "category": "Mild",
+    "specialty": "Allergist/Immunologist",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Identify and avoid allergen, OTC antihistamines.",
+    "s2_action": "Nasal steroid sprays, prescribed allergy medication.",
+    "s3_trigger": "Anaphylaxis (severe swelling, difficulty breathing)."
+  },
+  {
+    "disease_name": "Conjunctivitis (Pink Eye)",
+    "symptoms": [
+      "Redness",
+      "watering",
+      "itchiness",
+      "discharge from the eye"
+    ],
+    "category": "Mild",
+    "specialty": "Ophthalmologist/GP",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 7,
+    "s1_action": "Avoid touching eyes, wash hands frequently, use artificial tears.",
+    "s2_action": "Antibiotic or antiviral eye drops (depending on the cause).",
+    "s3_trigger": "Severe eye pain, vision changes, sensitivity to light."
+  },
+  {
+    "disease_name": "Acne",
+    "symptoms": [
+      "Pimples",
+      "blackheads",
+      "whiteheads",
+      "cysts on the skin"
+    ],
+    "category": "Mild",
+    "specialty": "Dermatologist",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "OTC cleansers with Salicylic Acid or Benzoyl Peroxide.",
+    "s2_action": "Topical retinoids, oral antibiotics, hormonal therapy.",
+    "s3_trigger": "Severe, cystic acne leading to scarring."
+  },
+  {
+    "disease_name": "Back Pain",
+    "symptoms": [
+      "Muscle ache",
+      "stabbing pain",
+      "pain radiating down the leg"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedist/GP",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 14,
+    "s1_action": "Rest, heat/cold packs, gentle stretching, OTC pain relief.",
+    "s2_action": "Physiotherapy, specific exercises.",
+    "s3_trigger": "Loss of bowel/bladder control, leg weakness, pain following trauma."
+  },
+  {
+    "disease_name": "Joint Pain",
+    "symptoms": [
+      "Stiffness",
+      "soreness",
+      "swelling",
+      "warmth in joints (e.g., knee, shoulder)"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedist/GP",
+    "timeline_s1_days": 3,
+    "timeline_s2_days": 14,
+    "s1_action": "Rest (RICE), OTC NSAIDs (Ibuprofen).",
+    "s2_action": "Physiotherapy, targeted exercise, specific diagnosis.",
+    "s3_trigger": "Acute swelling, inability to bear weight, joint deformity."
+  },
+  {
+    "disease_name": "Sprain",
+    "symptoms": [
+      "Pain",
+      "swelling",
+      "bruising",
+      "limited movement near a joint (e.g., ankle)"
+    ],
+    "category": "Normal",
+    "specialty": "Orthopedist/GP",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 14,
+    "s1_action": "R.I.C.E. (Rest, Ice, Compression, Elevation), OTC pain relief.",
+    "s2_action": "Immobilization (bandage/splint), physiotherapy after acute phase.",
+    "s3_trigger": "Inability to bear weight at all, severe deformity."
+  },
+  {
+    "disease_name": "Muscle Strain",
+    "symptoms": [
+      "Sudden pain",
+      "stiffness",
+      "limited movement in a muscle (e.g., hamstring)"
+    ],
+    "category": "Mild",
+    "specialty": "General Practitioner (GP)",
+    "timeline_s1_days": 2,
+    "timeline_s2_days": 10,
+    "s1_action": "R.I.C.E., gentle stretching after 48 hours.",
+    "s2_action": "Gradual return to activity, specific physical therapy.",
+    "s3_trigger": "Severe pain, muscle tearing/bulging, significant weakness."
+  },
+  {
+    "disease_name": "Insomnia",
+    "symptoms": [
+      "Difficulty falling or staying asleep",
+      "poor sleep quality"
+    ],
+    "category": "Normal",
+    "specialty": "General Practitioner (GP) / Sleep Specialist",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Good sleep hygiene (fixed schedule, dark room), relaxation techniques.",
+    "s2_action": "Cognitive Behavioral Therapy for Insomnia (CBT-I), short-term sleep aids.",
+    "s3_trigger": "Worsening daytime function, dependency on sleeping pills."
+  },
+  {
+    "disease_name": "Stress / Anxiety",
+    "symptoms": [
+      "Worry",
+      "nervousness",
+      "fast heart rate",
+      "restlessness"
+    ],
+    "category": "Normal",
+    "specialty": "Psychiatrist / Psychologist",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Deep breathing, meditation, regular exercise, setting boundaries.",
+    "s2_action": "Counseling/Therapy, anti-anxiety medication (if severe).",
+    "s3_trigger": "Panic attacks, suicidal thoughts, inability to perform daily tasks."
+  },
+  {
+    "disease_name": "Hypertension (High BP)",
+    "symptoms": [
+      "Often none (Silent Killer)",
+      "sometimes headache",
+      "dizziness"
+    ],
+    "category": "Dangerous",
+    "specialty": "Cardiologist/GP",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Salt restriction, regular exercise, healthy diet, stress management.",
+    "s2_action": "Prescription anti-hypertensive medications.",
+    "s3_trigger": "BP readings consistently $>180/120$, signs of stroke/heart attack."
+  },
+  {
+    "disease_name": "Diabetes (Type 2)",
+    "symptoms": [
+      "Increased thirst",
+      "frequent urination",
+      "fatigue",
+      "blurred vision"
+    ],
+    "category": "Dangerous",
+    "specialty": "Endocrinologist",
+    "timeline_s1_days": "Chronic",
+    "timeline_s2_days": "Chronic",
+    "s1_action": "Diet control (low sugar), regular exercise, weight management.",
+    "s2_action": "Oral medications, insulin therapy (if needed).",
+    "s3_trigger": "Uncontrolled blood sugar (Hyper/Hypoglycemia), foot ulcers, vision loss."
+  }
+]

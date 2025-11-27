@@ -1,0 +1,149 @@
+[
+  {
+    "medicine_key": "Acetaminophen (Paracetamol)",
+    "approved_for_symptoms": ["Fever (General, Flu, Dengue)", "Headache (Minor, Tension-Type, Migraine)", "Body Pain (Arthritis, Ear Infection)", "Minor Aches and Pains"],
+    "dose_adult_standard": "500mg - 1000mg, every 4 to 6 hours",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Crucial Safety Note: Only safe OTC option for fever/pain in Dengue Fever. Do not exceed 4000mg (4 grams) in 24 hours. Consult a doctor if you have liver problems."
+  },
+  {
+    "medicine_key": "Ibuprofen / Naproxen (NSAIDs)",
+    "approved_for_symptoms": ["Pain/Inflammation (Joint Pain, Osteoarthritis, Sprains, Strains)", "Fever (General, Flu)", "Endometriosis Pain", "Headache (Tension-Type, Migraine)"],
+    "dose_adult_standard": "200mg - 400mg, every 4 to 6 hours",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Take with food to prevent stomach upset. Do not use in Dengue Fever due to bleeding risk. Consult a doctor for chronic use."
+  },
+  {
+    "medicine_key": "Loperamide (Anti-diarrheal)",
+    "approved_for_symptoms": ["Acute Diarrhea", "Gastroenteritis"],
+    "dose_adult_standard": "Initial 4mg, then 2mg after each loose stool. Maximum 8mg per day.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Prioritize Oral Rehydration Salts (ORS). Do not use if stool is bloody or fever is high."
+  },
+  {
+    "medicine_key": "Oral Rehydration Salts (ORS) / Electrolyte Solution",
+    "approved_for_symptoms": ["Dehydration due to Diarrhea (General, Gastroenteritis, Dengue)"],
+    "dose_adult_standard": "Drink slowly after each loose stool or episode of vomiting.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Essential for rehydration. Mix with safe drinking water as directed. ORS is the primary treatment for gastroenteritis/diarrhea."
+  },
+  {
+    "medicine_key": "Antacids (e.g., Calcium Carbonate, Famotidine)",
+    "approved_for_symptoms": ["Heartburn", "Acid Reflux (GERD)", "Indigestion"],
+    "dose_adult_standard": "As directed on pack (Antacids as needed, H2 Blockers once or twice daily).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Antacids provide immediate relief. Do not take within 2 hours of other oral medications. Consult a Gastroenterologist if symptoms are chronic."
+  },
+  {
+    "medicine_key": "Psyllium Husk (Fiber Supplement)",
+    "approved_for_symptoms": ["Constipation", "Hemorrhoids", "High Cholesterol", "Obesity Support"],
+    "dose_adult_standard": "5-10 grams mixed with a full glass of water, 1 to 3 times daily.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Must be taken with ample water to prevent choking or obstruction. Gradually increase dosage."
+  },
+  {
+    "medicine_key": "Topical Hemorrhoid Creams (e.g., Hydrocortisone/Witch Hazel)",
+    "approved_for_symptoms": ["Hemorrhoids (Piles)"],
+    "dose_adult_standard": "Apply a thin layer to the affected area up to 4 times daily.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Used short-term (max 7 days) for itching and inflammation. Pair with fiber and water to prevent straining."
+  },
+  {
+    "medicine_key": "Cetirizine / Loratadine (Antihistamines)",
+    "approved_for_symptoms": ["Allergic Rhinitis (Hay Fever)", "Eczema-related Itching", "Common Cold Symptoms"],
+    "dose_adult_standard": "5mg - 10mg once daily",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "May cause drowsiness (especially Cetirizine). Best taken at night. For chronic allergies, pair with saline nasal rinse."
+  },
+  {
+    "medicine_key": "Dextromethorphan (Cough Suppressant)",
+    "approved_for_symptoms": ["Dry Cough (Bronchitis, Cold, Flu)"],
+    "dose_adult_standard": "Follow directions on the label (typically every 6-8 hours).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Only for dry, irritating cough. Do not use for wet/chesty cough. Check for interactions with other medications."
+  },
+  {
+    "medicine_key": "Guaifenesin (Expectorant)",
+    "approved_for_symptoms": ["Wet/Chesty Cough (Bronchitis, Cold, Flu)"],
+    "dose_adult_standard": "Follow directions on the label (typically every 4 hours).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Helps thin mucus. Drink plenty of water to improve effectiveness. Often combined in multi-symptom cold products."
+  },
+  {
+    "medicine_key": "Saline Nasal Sprays / Rinses",
+    "approved_for_symptoms": ["Catarrh", "Allergic Rhinitis", "Common Cold Symptoms"],
+    "dose_adult_standard": "Use as needed (e.g., 2-3 times daily).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Non-medicated and safe for frequent use. Use distilled or previously boiled water for nasal rinses to prevent infection."
+  },
+  {
+    "medicine_key": "Phenazopyridine (UTI Pain Relief)",
+    "approved_for_symptoms": ["Pain/Burning in Urinary Tract Infection (UTI)"],
+    "dose_adult_standard": "Follow directions on the label (typically 200mg 3 times daily).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Relieves pain but does not cure the infection. Must be taken alongside prescribed antibiotics for UTI. Turns urine bright orange/red."
+  },
+  {
+    "medicine_key": "Vitamin D3 (Cholecalciferol)",
+    "approved_for_symptoms": ["Vitamin D Deficiency", "Osteoporosis", "PCOS Support", "Depression Support"],
+    "dose_adult_standard": "1000 IU to 5000 IU daily (dosage must be guided by blood levels).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Essential for calcium absorption (Osteoporosis). Consult a doctor for a blood test to determine the correct therapeutic dosage."
+  },
+  {
+    "medicine_key": "Calcium Supplements",
+    "approved_for_symptoms": ["Osteoporosis"],
+    "dose_adult_standard": "1000mg - 1200mg daily (including dietary intake).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Should be taken in combination with Vitamin D. Take in divided doses (e.g., 500mg at a time) for better absorption."
+  },
+  {
+    "medicine_key": "Iron Supplements (e.g., Ferrous Sulfate)",
+    "approved_for_symptoms": ["Nutritional Anemia (Iron Deficiency)"],
+    "dose_adult_standard": "As directed by physician (e.g., 65mg elemental iron daily).",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Only take if deficiency is confirmed by blood test. Take with Vitamin C to increase absorption. Can cause constipation."
+  },
+  {
+    "medicine_key": "Glucosamine / Chondroitin",
+    "approved_for_symptoms": ["Chronic Joint Pain", "Osteoarthritis"],
+    "dose_adult_standard": "1500mg Glucosamine / 1200mg Chondroitin daily.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Used to support joint structure. Benefits may take weeks or months to be noticeable. Not an immediate pain reliever."
+  },
+  {
+    "medicine_key": "Saw Palmetto (Herbal Supplement)",
+    "approved_for_symptoms": ["Benign Prostatic Hyperplasia (BPH)"],
+    "dose_adult_standard": "Follow directions on the product label.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Used to help manage symptoms of an enlarged prostate. Consult a Urologist before starting, as it can mask signs of prostate cancer."
+  },
+  {
+    "medicine_key": "Topical Antifungals (e.g., Clotrimazole, Terbinafine)",
+    "approved_for_symptoms": ["Fungal Skin Infections (Tinea)"],
+    "dose_adult_standard": "Apply a thin layer 1-2 times daily.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Continue application for 1-2 weeks after symptoms clear to prevent recurrence."
+  },
+  {
+    "medicine_key": "Benzoyl Peroxide / Salicylic Acid",
+    "approved_for_symptoms": ["Acne Vulgaris"],
+    "dose_adult_standard": "Use as directed on the product label.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Can cause dryness and sun sensitivity. Start with lower concentrations. Consult a Dermatologist if acne is severe or causing scars."
+  },
+  {
+    "medicine_key": "Mild Hydrocortisone Cream (1%)",
+    "approved_for_symptoms": ["Dermatitis / Eczema (Mild Flare-ups)"],
+    "dose_adult_standard": "Apply a thin layer 1-2 times daily during a flare-up.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "Use short-term only (max 7 days) to reduce inflammation. For long-term control, use thick moisturizers daily."
+  },
+  {
+    "medicine_key": "Melatonin / Sleep Aids (e.g., Diphenhydramine)",
+    "approved_for_symptoms": ["Insomnia (Acute/Stress-related)"],
+    "dose_adult_standard": "3mg - 5mg Melatonin; Diphenhydramine 25mg - 50mg.",
+    "safety_status": "Fully Approved OTC",
+    "usage_note": "For short-term use only. Prioritize good sleep hygiene. Diphenhydramine can cause morning drowsiness."
+  }
+]
