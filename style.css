@@ -81,7 +81,7 @@ body {
     
     position: absolute;
     left: 20px; 
-    top: 40%; 
+    top: 50%; 
     transform: translateY(-50%); 
     z-index: 30;
 }
@@ -97,7 +97,7 @@ body {
 #time-display {
     position: absolute;
     right: 60px;
-    top: 34%; 
+    top: 35%; 
     transform: translateY(-50%); 
     color: var(--detect-color); 
     background-color: #112233;
@@ -109,11 +109,10 @@ body {
     z-index: 30;
 }
 
-
 #district-status-pill {
     position: absolute;
     right: 60px; 
-    top: 58px;
+    top: 60px; 
     z-index: 30;
     
     padding: 6px 12px;
