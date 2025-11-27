@@ -1,7 +1,7 @@
 :root {
     --bg-color: #0A1929;
     --text-color: #E0E7FF; 
-    --highlight-color: #33ffc7; 
+    --highlight-color: #33ffc7;
     --neon-shadow: 0 0 5px rgba(51, 255, 199, 0.4), 0 0 10px rgba(51, 255, 199, 0.2); 
     
     --agent-color: #1A314D; 
@@ -10,10 +10,10 @@
     --send-color: #17A2B8; 
     --detect-color: #FFC107; 
     --new-chat-color: #9C27B0; 
-
+    
     --mild-color: #38C713; 
     --normal-color: #FFC107; 
-    --dangerous-color: #FF4136; 
+    --dangerous-color: #FF4136;
     
     --header-height: 120px; 
     --input-bar-total-height: 80px; 
@@ -26,7 +26,7 @@ body {
     margin: 0;
     min-height: 100vh;
     width: 100vw;
-    box-shadow: inset 0 0 10px rgba(51, 255, 199, 0.3); 
+    box-shadow: inset 0 0 10px rgba(51, 255, 199, 0.3);
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -97,7 +97,7 @@ body {
 #time-display {
     position: absolute;
     right: 60px;
-    top: 33%; 
+    top: 34%; 
     transform: translateY(-50%); 
     color: var(--detect-color); 
     background-color: #112233;
@@ -109,10 +109,11 @@ body {
     z-index: 30;
 }
 
+
 #district-status-pill {
     position: absolute;
     right: 60px; 
-    top: 58px; 
+    top: 58px;
     z-index: 30;
     
     padding: 6px 12px;
@@ -167,6 +168,51 @@ body {
     background: #112233;
 }
 
+#data-metrics-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 20px 0;
+    margin-bottom: 25px; 
+    margin-top: 15px;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap; 
+    border-bottom: 1px dashed #3A5068;
+    padding-bottom: 25px;
+}
+.metric-box {
+    background-color: var(--agent-color); 
+    padding: 15px 25px;
+    border-radius: 12px;
+    text-align: center;
+    width: 180px; 
+    box-shadow: 0 0 8px rgba(51, 255, 199, 0.2); 
+    border: 1px solid rgba(51, 255, 199, 0.4);
+    transition: transform 0.2s;
+}
+.metric-box:hover {
+    transform: scale(1.03);
+}
+.metric-label {
+    display: block;
+    font-size: 0.75em;
+    color: #99AABB; 
+    margin-bottom: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.metric-value {
+    display: block;
+    font-size: 1.8em;
+    font-weight: bolder;
+    color: var(--highlight-color); 
+    text-shadow: var(--neon-shadow);
+}
+
 .message {
     padding: 12px 18px; 
     border-radius: 20px; 
@@ -199,68 +245,40 @@ body {
 
 .category-pill {
     position: absolute;
-    right: 25px;
-    top: 25px;
-    padding: 5px 45px;
-    border-radius: 60px;
-    font-size: 25px;
+    right: -10px; 
+    top: 50%;
+    transform: translateY(-50%);
+    
+    padding: 4px 8px;
+    border-radius: 15px;
+    font-size: 0.7em;
     font-weight: bold;
     text-transform: uppercase;
     white-space: nowrap;
-    color: var(--bg-color);
+    
+    color: var(--bg-color); 
     border: 1px solid currentColor;
     z-index: 10;
 }
-
 .category-pill[data-category="Mild"] {
     background-color: var(--mild-color);
     border-color: var(--mild-color);
     box-shadow: 0 0 5px rgba(56, 199, 19, 0.7);
 }
-
 .category-pill[data-category="Normal"] {
     background-color: var(--normal-color);
     border-color: var(--normal-color);
     box-shadow: 0 0 5px rgba(255, 193, 7, 0.7);
 }
-
 .category-pill[data-category="Dangerous"] {
     background-color: var(--dangerous-color);
     border-color: var(--dangerous-color);
     box-shadow: 0 0 8px rgba(255, 65, 54, 0.9);
 }
-
 .user .category-pill {
     display: none;
 }
 
-
-#data-metrics-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    padding: 20px 0;
-    margin-bottom: 25px; 
-    margin-top: 15px;
-    width: 100%;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    flex-wrap: wrap; 
-    border-bottom: 1px dashed #3A5068;
-    padding-bottom: 25px;
-}
-.metric-box {
-    background-color: var(--agent-color); 
-    padding: 15px 25px;
-    border-radius: 12px;
-    text-align: center;
-    width: 180px; 
-    box-shadow: 0 0 8px rgba(51, 255, 199, 0.2); 
-    border: 1px solid rgba(51, 255, 199, 0.4);
-    transition: transform 0.2s;
-}
 
 #input-bar-container {
     position: fixed; 
@@ -324,10 +342,10 @@ button .icon {
     margin: 0; 
 }
 
-button:not(#detect-button):not(#new-chat-button) {
+#send-button {
     background-color: var(--send-color); 
 }
-button:not(#detect-button):not(#new-chat-button):hover {
+#send-button:hover {
     background-color: #1CB5CA;
     box-shadow: 0 0 8px rgba(23, 162, 184, 0.5);
 }
