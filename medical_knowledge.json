@@ -2,10 +2,10 @@
   {
     "disease_name": "Ischemic Heart Disease (IHD)",
     "symptoms": [
-      "Seene mein tez dard (chest pain)",
-      "Saans lene mein takleef (shortness of breath)",
-      "Thakaan",
-      "Paseena aana"
+      "Severe chest pain",
+      "Shortness of breath (Saans lene mein takleef)",
+      "Fatigue (Thakaan)",
+      "Sweating (Paseena aana)"
     ],
     "category": "Dangerous",
     "specialty": "Cardiologist",
@@ -18,10 +18,10 @@
   {
     "disease_name": "Stroke (Cerebrovascular Disease)",
     "symptoms": [
-      "Achaanak chehre ka latak jaana (facial droop)",
-      "Bhuja ya pair mein kamzori (arm/leg weakness)",
-      "Bolne/samajhne mein takleef (slurred speech)",
-      "Achaanak sir dard"
+      "Sudden facial droop",
+      "Arm or leg weakness",
+      "Slurred speech (Bolne/samajhne mein takleef)",
+      "Sudden severe headache"
     ],
     "category": "Dangerous",
     "specialty": "Neurologist",
@@ -34,10 +34,10 @@
   {
     "disease_name": "Type 2 Diabetes (Uncontrolled)",
     "symptoms": [
-      "Zyada pyaas/bhukh lagna",
-      "Baar-baar peshab aana",
-      "Wazan kam hona",
-      "Dhundhla dikhna"
+      "Increased thirst/hunger",
+      "Frequent urination",
+      "Weight loss (Wazan kam hona)",
+      "Blurred vision"
     ],
     "category": "Dangerous",
     "specialty": "Endocrinologist",
@@ -50,10 +50,10 @@
   {
     "disease_name": "Chronic Kidney Disease (CKD)",
     "symptoms": [
-      "Thakaan",
-      "Pairo mein sujan (edema)",
-      "Zyada/kam peshab aana",
-      "Khujli"
+      "Fatigue (Thakaan)",
+      "Swelling in legs (Edema)",
+      "Increased/decreased urination",
+      "Itching (Khujli)"
     ],
     "category": "Dangerous",
     "specialty": "Nephrologist",
@@ -66,9 +66,9 @@
   {
     "disease_name": "Chronic Obstructive Pulmonary Disease (COPD)",
     "symptoms": [
-      "Lambi khansi",
-      "Saans lene mein takleef (dyspnea)",
-      "Seene mein jakadan",
+      "Persistent cough",
+      "Shortness of breath (Dyspnea)",
+      "Chest tightness",
       "Wheezing"
     ],
     "category": "Dangerous",
@@ -82,10 +82,10 @@
   {
     "disease_name": "Common Cancers (Oral, Breast, Lung)",
     "symptoms": [
-      "Naya lump ya gath",
-      "Asamanya raktasrav (unusual bleeding)",
-      "Lambe samay tak theek na hone wala ghav",
-      "Anjana wazan kam hona"
+      "New lump or mass",
+      "Unusual bleeding (Asamanya raktasrav)",
+      "Wound that won't heal",
+      "Unexplained weight loss"
     ],
     "category": "Dangerous",
     "specialty": "Oncologist",
@@ -98,10 +98,10 @@
   {
     "disease_name": "Tuberculosis (TB)",
     "symptoms": [
-      "3 hafte se zyada khansi",
-      "Shaam ko bukhar aana",
-      "Raat ko paseena aana",
-      "Wazan kam hona"
+      "Cough lasting more than 3 weeks",
+      "Fever in the evening",
+      "Night sweats",
+      "Weight loss (Wazan kam hona)"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -114,10 +114,10 @@
   {
     "disease_name": "HIV/AIDS",
     "symptoms": [
-      "Tez bukhar",
-      "Gale mein sujan",
-      "Thakaan",
-      "Wazan kam hona"
+      "High fever",
+      "Swollen throat (Gale mein sujan)",
+      "Fatigue",
+      "Weight loss"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -130,10 +130,10 @@
   {
     "disease_name": "Dementia/Alzheimer's Disease",
     "symptoms": [
-      "Yaddasht kamzor hona",
-      "Sochne/faisla lene mein mushkil",
-      "Vichar/vyavhar mein badlav",
-      "Bhatak jaana"
+      "Memory loss (Yaddasht kamzor hona)",
+      "Difficulty thinking/making decisions",
+      "Changes in mood/behavior",
+      "Getting lost (Bhatak jaana)"
     ],
     "category": "Dangerous",
     "specialty": "Neurologist",
@@ -146,10 +146,10 @@
   {
     "disease_name": "Severe Depression/Anxiety",
     "symptoms": [
-      "Lagatar udasi/chinta",
-      "Khushi mehsoos na hona",
-      "Khane/neend mein badlav",
-      "Khud ko nuksaan pahunchane ke vichaar"
+      "Persistent sadness/anxiety",
+      "Loss of feeling happy",
+      "Changes in eating/sleeping",
+      "Thoughts of self-harm"
     ],
     "category": "Dangerous",
     "specialty": "Psychiatrist",
@@ -162,10 +162,10 @@
   {
     "disease_name": "Hypertension (Uncontrolled/Severe)",
     "symptoms": [
-      "Tez sir dard",
-      "Chakkar aana",
-      "Naak se khoon aana (epistaxis)",
-      "Seene mein dard (uncommon)"
+      "Severe headache",
+      "Dizziness",
+      "Nosebleed (Epistaxis)",
+      "Chest pain (uncommon)"
     ],
     "category": "Dangerous",
     "specialty": "Cardiologist",
@@ -178,10 +178,10 @@
   {
     "disease_name": "Chronic Liver Disease (Cirrhosis)",
     "symptoms": [
-      "Peeliya (Jaundice)",
-      "Pet mein sujan (ascites)",
-      "Thakaan",
-      "Aasani se chot lagna"
+      "Jaundice (Peeliya)",
+      "Abdominal swelling (Ascites)",
+      "Fatigue",
+      "Easy bruising"
     ],
     "category": "Dangerous",
     "specialty": "Hepatologist",
@@ -194,10 +194,10 @@
   {
     "disease_name": "Severe Pneumonia / Lower Respiratory Infection",
     "symptoms": [
-      "Tez bukhar",
-      "Saans lene mein tez takleef",
-      "Balgham wali khansi",
-      "Seene mein dard"
+      "High fever",
+      "Severe breathing difficulty",
+      "Cough with phlegm (Balgham)",
+      "Chest pain"
     ],
     "category": "Dangerous",
     "specialty": "Pulmonologist",
@@ -210,10 +210,10 @@
   {
     "disease_name": "Severe Injuries (Accidents, Burns)",
     "symptoms": [
-      "Bhari khoon behna (severe bleeding)",
-      "Haddi tootna (broken bones)",
-      "Jala hua ang (severe burns)",
-      "Tez dard"
+      "Severe bleeding (Bhari khoon behna)",
+      "Broken bones",
+      "Severe burns",
+      "Intense pain (Tez dard)"
     ],
     "category": "Dangerous",
     "specialty": "Trauma Surgeon",
@@ -226,10 +226,10 @@
   {
     "disease_name": "Severe Hearing Loss (Disabling)",
     "symptoms": [
-      "Sunne ki kshamta kam hona",
-      "Bolne mein mushkil",
-      "Tinnitus (kaan mein awaaz)",
-      "Chakkar aana"
+      "Reduced hearing ability",
+      "Difficulty speaking",
+      "Tinnitus (ringing in ear)",
+      "Dizziness (Chakkar aana)"
     ],
     "category": "Normal/Dangerous",
     "specialty": "Otolaryngologist (ENT)",
@@ -242,10 +242,10 @@
   {
     "disease_name": "Rheumatoid Arthritis (RA)",
     "symptoms": [
-      "Subah jodon mein jakadan",
-      "Chhote jodon mein sujan/dard",
-      "Thakaan",
-      "Bukhar (kabhi-kabhi)"
+      "Morning joint stiffness",
+      "Swelling/pain in small joints",
+      "Fatigue",
+      "Fever (sometimes)"
     ],
     "category": "Dangerous",
     "specialty": "Rheumatologist",
@@ -258,10 +258,10 @@
   {
     "disease_name": "Systemic Lupus Erythematosus (Lupus)",
     "symptoms": [
-      "Jodon ka dard/sujan",
-      "Chehre par butterfly rash",
-      "Thakaan",
-      "Bukhar"
+      "Joint pain/swelling",
+      "Butterfly rash on face",
+      "Fatigue",
+      "Fever"
     ],
     "category": "Dangerous",
     "specialty": "Rheumatologist",
@@ -274,10 +274,10 @@
   {
     "disease_name": "Inflammatory Bowel Disease (IBD)",
     "symptoms": [
-      "Purani dast (chronic diarrhea)",
-      "Pet dard/akalan",
-      "Wazan kam hona",
-      "Mal mein khoon"
+      "Chronic diarrhea",
+      "Abdominal pain/cramping",
+      "Weight loss",
+      "Blood in stool"
     ],
     "category": "Dangerous",
     "specialty": "Gastroenterologist",
@@ -290,10 +290,10 @@
   {
     "disease_name": "Type 1 Diabetes Mellitus",
     "symptoms": [
-      "Achaanak wazan kam hona",
-      "Tez pyaas",
-      "Baar-baar peshab",
-      "Thakaan"
+      "Sudden weight loss",
+      "Extreme thirst",
+      "Frequent urination",
+      "Fatigue"
     ],
     "category": "Dangerous",
     "specialty": "Endocrinologist",
@@ -306,9 +306,9 @@
   {
     "disease_name": "Glaucoma",
     "symptoms": [
-      "Dhundhla ya tunnel vision",
-      "Aankhon ka tez dard (Acute Angle-Closure)",
-      "Laal aankhein",
+      "Blurred or tunnel vision",
+      "Severe eye pain (Acute Angle-Closure)",
+      "Red eyes",
       "Nausea/vomiting (Acute)"
     ],
     "category": "Dangerous",
@@ -322,10 +322,10 @@
   {
     "disease_name": "Macular Degeneration (AMD)",
     "symptoms": [
-      "Kendra mein dhundhla dikhna (Central vision loss)",
-      "Seedhi rekhaon ka tedha dikhna",
-      "Rang kam saaf dikhna",
-      "Padhne mein mushkil"
+      "Central vision loss",
+      "Straight lines appearing wavy",
+      "Colors appearing less vivid",
+      "Difficulty reading"
     ],
     "category": "Normal/Dangerous",
     "specialty": "Ophthalmologist",
@@ -338,10 +338,10 @@
   {
     "disease_name": "Cervical Cancer",
     "symptoms": [
-      "Asamanya yoni se raktasrav (unusual vaginal bleeding)",
-      "Yoni se kharab dischaarge",
-      "Pelvic region mein dard",
-      "Sex ke dauran dard"
+      "Unusual vaginal bleeding",
+      "Abnormal vaginal discharge",
+      "Pelvic region pain",
+      "Pain during sex"
     ],
     "category": "Dangerous",
     "specialty": "Gynecologic Oncologist",
@@ -354,10 +354,10 @@
   {
     "disease_name": "Acute Leukemia",
     "symptoms": [
-      "Aasani se chot lagna/khoon behna",
-      "Thakaan",
-      "Baar-baar infection",
-      "Bukhar"
+      "Easy bruising/bleeding",
+      "Fatigue",
+      "Frequent infection",
+      "Fever"
     ],
     "category": "Dangerous",
     "specialty": "Hematologist/Oncologist",
@@ -370,10 +370,10 @@
   {
     "disease_name": "Bipolar Disorder",
     "symptoms": [
-      "Mood mein tez utaar-chadhav (mania and depression)",
-      "Neend kam hona",
-      "Tez bolna/sochna",
-      "Khatarnak vyavhar"
+      "Rapid mood swings (mania and depression)",
+      "Reduced sleep",
+      "Rapid speech/thoughts",
+      "Risky behavior"
     ],
     "category": "Dangerous",
     "specialty": "Psychiatrist",
@@ -386,26 +386,26 @@
   {
     "disease_name": "Appendicitis",
     "symptoms": [
-      "Pet ke nichle daahine hisse mein tez dard",
-      "Ultiyan",
-      "Bukhar",
-      "Pet mein sujan"
+      "Severe pain in lower right abdomen",
+      "Vomiting",
+      "Fever",
+      "Abdominal swelling"
     ],
     "category": "Dangerous",
     "specialty": "General Surgeon",
     "timeline_s1_days": "N/A",
     "timeline_s2_days": "N/A",
-    "s1_action": "Khana-peena band karein, dard ki dawa na lein jo diagnosis ko chhipaaye.",
+    "s1_action": "Stop eating/drinking; avoid pain relievers that hide diagnosis.",
     "s2_action": "N/A",
     "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for sudden, shifting lower right abdominal pain."
   },
   {
     "disease_name": "Cholera",
     "symptoms": [
-      "Tez pani jaisa dast (rice-water stool)",
-      "Ultiyan",
-      "Tez dehydration",
-      "Pairo mein akalan"
+      "Severe watery diarrhea (rice-water stool)",
+      "Vomiting",
+      "Severe dehydration",
+      "Leg cramps"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -418,89 +418,89 @@
   {
     "disease_name": "Hypertension (Controlled/Stage I)",
     "symptoms": [
-      "Aksar koi lakshan nahi (asymptomatic)",
-      "Halka sir dard (kabhi-kabhi)",
-      "Thakaan"
+      "Often asymptomatic",
+      "Mild headache (sometimes)",
+      "Fatigue"
     ],
     "category": "Normal",
     "specialty": "PCP/Cardiologist",
     "timeline_s1_days": 90,
     "timeline_s2_days": 30,
-    "s1_action": "Follow DASH diet, limit sodium, exercise, aur prescribed medicine lein.",
+    "s1_action": "Follow DASH diet, limit sodium, exercise, and take prescribed medicine.",
     "s2_action": "Follow up with PCP within 1-3 months to check BP and medication effectiveness.",
-    "s3_trigger": "Agar BP $\\ge 180/120$ ho ya naye tez lakshan (severe headache, chest pain) ho toh turant doctor se milein."
+    "s3_trigger": "If BP $\\ge 180/120$ or new severe symptoms (severe headache, chest pain) occur, consult doctor immediately."
   },
   {
     "disease_name": "High Cholesterol (Hyperlipidemia)",
     "symptoms": [
-      "Aksar koi lakshan nahi (asymptomatic)"
+      "Often asymptomatic"
     ],
     "category": "Mild",
     "specialty": "PCP/Cardiologist",
     "timeline_s1_days": 90,
     "timeline_s2_days": 90,
-    "s1_action": "Diet low in saturated fat, high in fiber, regular exercise, aur prescribed medicine lein.",
+    "s1_action": "Diet low in saturated fat, high in fiber, regular exercise, and take prescribed medicine.",
     "s2_action": "Follow up in 3 months for lipid panel check.",
-    "s3_trigger": "Agar aapko IHD, Stroke ke lakshan (chest pain, numbness) mehsoos ho toh turant doctor se milein."
+    "s3_trigger": "If IHD or Stroke symptoms (chest pain, numbness) are felt, consult doctor immediately."
   },
   {
     "disease_name": "Obesity/Overweight (Mild-Moderate)",
     "symptoms": [
-      "Shareer ka atirikt wazan",
-      "Thakaan",
-      "Saans lene mein halki takleef"
+      "Excess body weight",
+      "Fatigue",
+      "Mild shortness of breath"
     ],
     "category": "Mild",
     "specialty": "PCP/Dietitian",
     "timeline_s1_days": 90,
     "timeline_s2_days": 90,
-    "s1_action": "Calorie-controlled diet, 150 mins exercise/week, wazan control karein.",
-    "s2_action": "Consult a Dietitian for a personalized plan. Weight loss goals set karein.",
-    "s3_trigger": "Agar aapko chest pain, tez saans phoolna, ya Type 2 Diabetes ke lakshan ho toh doctor se milein."
+    "s1_action": "Calorie-controlled diet, 150 mins exercise/week, manage weight.",
+    "s2_action": "Consult a Dietitian for a personalized plan. Set weight loss goals.",
+    "s3_trigger": "If chest pain, severe breathlessness, or Type 2 Diabetes symptoms occur, consult doctor."
   },
   {
     "disease_name": "Fatty Liver Disease (NAFLD)",
     "symptoms": [
-      "Aksar koi lakshan nahi",
-      "Pet ke daahine upri hisse mein halka dard/bharipan",
-      "Thakaan"
+      "Often asymptomatic",
+      "Mild pain/fullness in upper right abdomen",
+      "Fatigue"
     ],
     "category": "Mild",
     "specialty": "Gastroenterologist",
     "timeline_s1_days": 90,
     "timeline_s2_days": 90,
-    "s1_action": "Weight loss (7-10% of body weight), eliminate alcohol/sugar, aur healthy diet follow karein.",
+    "s1_action": "Weight loss (7-10% of body weight), eliminate alcohol/sugar, and follow a healthy diet.",
     "s2_action": "Consult a Gastroenterologist for monitoring (FibroScan) and further advice.",
-    "s3_trigger": "Agar Peeliya (Jaundice), pet mein sujan (Ascites) ho toh turant doctor se milein."
+    "s3_trigger": "If Jaundice, abdominal swelling (Ascites) occurs, consult doctor immediately."
   },
   {
     "disease_name": "Polycystic Ovary Syndrome (PCOS)",
     "symptoms": [
-      "Aniyamit mahavari (irregular periods)",
-      "Chehre/shareer par atirikt baal",
+      "Irregular periods",
+      "Excess facial/body hair",
       "Acne",
-      "Wazan badhna"
+      "Weight gain"
     ],
     "category": "Normal",
     "specialty": "Gynecologist/Endocrinologist",
     "timeline_s1_days": 90,
     "timeline_s2_days": 30,
-    "s1_action": "Weight management, low glycemic diet, exercise, aur lifestyle changes karein.",
+    "s1_action": "Weight management, low glycemic diet, exercise, and lifestyle changes.",
     "s2_action": "Consult a Gynecologist for hormonal/metabolic assessment and medication.",
-    "s3_trigger": "Agar tez aur lambi bleeding ho toh turant doctor se milein."
+    "s3_trigger": "If heavy and prolonged bleeding occurs, consult doctor immediately."
   },
   {
     "disease_name": "Type 2 Diabetes (Controlled)",
     "symptoms": [
-      "Lakshan niyamit taur par control mein"
+      "Symptoms regularly controlled"
     ],
     "category": "Normal",
     "specialty": "Endocrinologist",
     "timeline_s1_days": 90,
     "timeline_s2_days": 90,
-    "s1_action": "Strict adherence to medication, diet, blood sugar monitoring, aur exercise karein.",
+    "s1_action": "Strict adherence to medication, diet, blood sugar monitoring, and exercise.",
     "s2_action": "Routine follow-up with Endocrinologist every 3-6 months.",
-    "s3_trigger": "Agar blood sugar lagatar high ho ya low ho, ya Type 1 ke lakshan ho toh turant doctor se milein."
+    "s3_trigger": "If blood sugar is persistently high or low, or Type 1 symptoms occur, consult doctor immediately."
   },
   {
     "disease_name": "Hypothyroidism",
@@ -1147,7 +1147,7 @@
     "timeline_s2_days": 7,
     "s1_action": "Rest, hydrate, OTC relief (Acetaminophen, Ibuprofen, Aspirin).",
     "s2_action": "Consult PCP if headaches become more frequent or severe.",
-    "s3_trigger": "If accompanied by fever, stiff neck, confusion, or sudden severe onset (Seek **emergency care**)."
+    "s3_trigger": "Sudden severe headache, weakness/numbness, fever/neck stiffness."
   },
   {
     "disease_name": "Sore Throat (Acute Pharyngitis)",
@@ -1311,7 +1311,7 @@
     "specialty": "General Practitioner (GP)",
     "timeline_s1_days": 2,
     "timeline_s2_days": 7,
-    "s1_action": "Warm salt water gargles, lozenges, warm liquids.",
+    "s1_action": "Lozenges, saltwater gargles, warm fluids, pain relief (Acetaminophen/Ibuprofen).",
     "s2_action": "Throat spray, OTC anti-inflammatory medication.",
     "s3_trigger": "Severe difficulty swallowing/breathing, fever, white patches on tonsils."
   },
