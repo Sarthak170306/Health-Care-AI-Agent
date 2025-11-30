@@ -234,7 +234,7 @@ function findDisease(symptoms) {
             }
         }
 
-        if (matchCount > maxMatchCount && matchCount >= 3) { 
+        if (matchCount > maxMatchCount && matchCount >= 4) { 
             maxMatchCount = matchCount;
             bestMatch = disease;
         }

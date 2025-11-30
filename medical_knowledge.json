@@ -2,10 +2,11 @@
   {
     "disease_name": "Ischemic Heart Disease (IHD)",
     "symptoms": [
-      "Severe chest pain",
-      "Shortness of breath (Saans lene mein takleef)",
-      "Fatigue (Thakaan)",
-      "Sweating (Paseena aana)"
+      "Severe chest pain (Angina)",
+      "Shortness of breath (Dyspnea)",
+      "Pain radiating to left arm or jaw",
+      "Sweating and nausea",
+      "Fatigue"
     ],
     "category": "Dangerous",
     "specialty": "Cardiologist",
@@ -19,9 +20,10 @@
     "disease_name": "Stroke (Cerebrovascular Disease)",
     "symptoms": [
       "Sudden facial droop",
-      "Arm or leg weakness",
-      "Slurred speech (Bolne/samajhne mein takleef)",
-      "Sudden severe headache"
+      "Arm or leg weakness/numbness",
+      "Slurred speech or difficulty speaking",
+      "Sudden severe headache (Thunderclap)",
+      "Loss of balance/coordination"
     ],
     "category": "Dangerous",
     "specialty": "Neurologist",
@@ -34,10 +36,11 @@
   {
     "disease_name": "Type 2 Diabetes (Uncontrolled)",
     "symptoms": [
-      "Increased thirst/hunger",
+      "Excessive thirst/hunger",
       "Frequent urination",
-      "Weight loss (Wazan kam hona)",
-      "Blurred vision"
+      "Unexplained weight loss",
+      "Blurred vision",
+      "Slow healing sores"
     ],
     "category": "Dangerous",
     "specialty": "Endocrinologist",
@@ -50,10 +53,11 @@
   {
     "disease_name": "Chronic Kidney Disease (CKD)",
     "symptoms": [
-      "Fatigue (Thakaan)",
+      "Persistent fatigue",
       "Swelling in legs (Edema)",
-      "Increased/decreased urination",
-      "Itching (Khujli)"
+      "Increased or decreased urination frequency",
+      "Unexplained itching",
+      "Muscle cramps"
     ],
     "category": "Dangerous",
     "specialty": "Nephrologist",
@@ -66,10 +70,11 @@
   {
     "disease_name": "Chronic Obstructive Pulmonary Disease (COPD)",
     "symptoms": [
-      "Persistent cough",
+      "Persistent productive cough",
       "Shortness of breath (Dyspnea)",
       "Chest tightness",
-      "Wheezing"
+      "Wheezing",
+      "Frequent respiratory infections"
     ],
     "category": "Dangerous",
     "specialty": "Pulmonologist",
@@ -83,9 +88,10 @@
     "disease_name": "Common Cancers (Oral, Breast, Lung)",
     "symptoms": [
       "New lump or mass",
-      "Unusual bleeding (Asamanya raktasrav)",
+      "Unusual bleeding or discharge",
       "Wound that won't heal",
-      "Unexplained weight loss"
+      "Unexplained weight loss",
+      "Persistent change in bowel/bladder habits"
     ],
     "category": "Dangerous",
     "specialty": "Oncologist",
@@ -101,7 +107,8 @@
       "Cough lasting more than 3 weeks",
       "Fever in the evening",
       "Night sweats",
-      "Weight loss (Wazan kam hona)"
+      "Unexplained weight loss",
+      "Chest pain when breathing or coughing"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -114,10 +121,11 @@
   {
     "disease_name": "HIV/AIDS",
     "symptoms": [
-      "High fever",
-      "Swollen throat (Gale mein sujan)",
-      "Fatigue",
-      "Weight loss"
+      "High fever (recurring)",
+      "Swollen lymph nodes (in neck or groin)",
+      "Extreme fatigue",
+      "Unexplained weight loss",
+      "Severe sore throat (recurring)"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -130,10 +138,11 @@
   {
     "disease_name": "Dementia/Alzheimer's Disease",
     "symptoms": [
-      "Memory loss (Yaddasht kamzor hona)",
+      "Memory loss disrupting daily life",
       "Difficulty thinking/making decisions",
-      "Changes in mood/behavior",
-      "Getting lost (Bhatak jaana)"
+      "Difficulty completing familiar tasks",
+      "Changes in mood or personality",
+      "Getting lost in familiar places"
     ],
     "category": "Dangerous",
     "specialty": "Neurologist",
@@ -146,10 +155,11 @@
   {
     "disease_name": "Severe Depression/Anxiety",
     "symptoms": [
-      "Persistent sadness/anxiety",
-      "Loss of feeling happy",
-      "Changes in eating/sleeping",
-      "Thoughts of self-harm"
+      "Persistent sadness/anxiety (lasting >2 weeks)",
+      "Loss of interest in activities (Anhedonia)",
+      "Changes in eating/sleeping patterns",
+      "Difficulty concentrating",
+      "Thoughts of self-harm or suicide"
     ],
     "category": "Dangerous",
     "specialty": "Psychiatrist",
@@ -165,7 +175,8 @@
       "Severe headache",
       "Dizziness",
       "Nosebleed (Epistaxis)",
-      "Chest pain (uncommon)"
+      "Shortness of breath",
+      "Severe chest pain (uncommon)"
     ],
     "category": "Dangerous",
     "specialty": "Cardiologist",
@@ -178,10 +189,11 @@
   {
     "disease_name": "Chronic Liver Disease (Cirrhosis)",
     "symptoms": [
-      "Jaundice (Peeliya)",
+      "Jaundice (yellow skin/eyes)",
       "Abdominal swelling (Ascites)",
-      "Fatigue",
-      "Easy bruising"
+      "Persistent fatigue",
+      "Easy bruising",
+      "Confusion or disorientation"
     ],
     "category": "Dangerous",
     "specialty": "Hepatologist",
@@ -195,9 +207,10 @@
     "disease_name": "Severe Pneumonia / Lower Respiratory Infection",
     "symptoms": [
       "High fever",
-      "Severe breathing difficulty",
-      "Cough with phlegm (Balgham)",
-      "Chest pain"
+      "Severe breathing difficulty (Rapid/shallow)",
+      "Cough producing colored phlegm",
+      "Chest pain (sharp)",
+      "Confusion or altered mental status"
     ],
     "category": "Dangerous",
     "specialty": "Pulmonologist",
@@ -210,10 +223,11 @@
   {
     "disease_name": "Severe Injuries (Accidents, Burns)",
     "symptoms": [
-      "Severe bleeding (Bhari khoon behna)",
+      "Severe bleeding",
       "Broken bones",
       "Severe burns",
-      "Intense pain (Tez dard)"
+      "Intense pain",
+      "Loss of consciousness"
     ],
     "category": "Dangerous",
     "specialty": "Trauma Surgeon",
@@ -226,10 +240,11 @@
   {
     "disease_name": "Severe Hearing Loss (Disabling)",
     "symptoms": [
-      "Reduced hearing ability",
-      "Difficulty speaking",
+      "Sudden or rapid reduction in hearing ability",
+      "Difficulty speaking clearly",
       "Tinnitus (ringing in ear)",
-      "Dizziness (Chakkar aana)"
+      "Severe dizziness (Vertigo)",
+      "Nausea"
     ],
     "category": "Normal/Dangerous",
     "specialty": "Otolaryngologist (ENT)",
@@ -242,10 +257,11 @@
   {
     "disease_name": "Rheumatoid Arthritis (RA)",
     "symptoms": [
-      "Morning joint stiffness",
-      "Swelling/pain in small joints",
-      "Fatigue",
-      "Fever (sometimes)"
+      "Morning joint stiffness (lasting $>30$ minutes)",
+      "Swelling/pain in small joints (symmetrical)",
+      "Persistent fatigue",
+      "Low-grade fever",
+      "Rheumatoid nodules"
     ],
     "category": "Dangerous",
     "specialty": "Rheumatologist",
@@ -259,9 +275,10 @@
     "disease_name": "Systemic Lupus Erythematosus (Lupus)",
     "symptoms": [
       "Joint pain/swelling",
-      "Butterfly rash on face",
-      "Fatigue",
-      "Fever"
+      "Butterfly rash on face (Malar rash)",
+      "Persistent fatigue",
+      "Unexplained fever",
+      "Sun sensitivity"
     ],
     "category": "Dangerous",
     "specialty": "Rheumatologist",
@@ -274,10 +291,11 @@
   {
     "disease_name": "Inflammatory Bowel Disease (IBD)",
     "symptoms": [
-      "Chronic diarrhea",
+      "Chronic diarrhea (lasting $>4$ weeks)",
       "Abdominal pain/cramping",
-      "Weight loss",
-      "Blood in stool"
+      "Unexplained weight loss",
+      "Blood in stool",
+      "Fever and fatigue"
     ],
     "category": "Dangerous",
     "specialty": "Gastroenterologist",
@@ -290,10 +308,11 @@
   {
     "disease_name": "Type 1 Diabetes Mellitus",
     "symptoms": [
-      "Sudden weight loss",
+      "Sudden unexplained weight loss",
       "Extreme thirst",
       "Frequent urination",
-      "Fatigue"
+      "Extreme fatigue",
+      "Fruity breath odor (sign of ketoacidosis)"
     ],
     "category": "Dangerous",
     "specialty": "Endocrinologist",
@@ -308,8 +327,9 @@
     "symptoms": [
       "Blurred or tunnel vision",
       "Severe eye pain (Acute Angle-Closure)",
-      "Red eyes",
-      "Nausea/vomiting (Acute)"
+      "Redness in the eyes",
+      "Nausea/vomiting (Acute)",
+      "Halos around lights"
     ],
     "category": "Dangerous",
     "specialty": "Ophthalmologist",
@@ -325,7 +345,8 @@
       "Central vision loss",
       "Straight lines appearing wavy",
       "Colors appearing less vivid",
-      "Difficulty reading"
+      "Difficulty reading",
+      "Need for brighter light"
     ],
     "category": "Normal/Dangerous",
     "specialty": "Ophthalmologist",
@@ -338,10 +359,11 @@
   {
     "disease_name": "Cervical Cancer",
     "symptoms": [
-      "Unusual vaginal bleeding",
+      "Unusual vaginal bleeding (after intercourse or menopause)",
       "Abnormal vaginal discharge",
       "Pelvic region pain",
-      "Pain during sex"
+      "Pain during sex",
+      "Weight loss"
     ],
     "category": "Dangerous",
     "specialty": "Gynecologic Oncologist",
@@ -355,9 +377,10 @@
     "disease_name": "Acute Leukemia",
     "symptoms": [
       "Easy bruising/bleeding",
-      "Fatigue",
+      "Severe fatigue",
       "Frequent infection",
-      "Fever"
+      "Persistent fever",
+      "Bone pain"
     ],
     "category": "Dangerous",
     "specialty": "Hematologist/Oncologist",
@@ -371,9 +394,10 @@
     "disease_name": "Bipolar Disorder",
     "symptoms": [
       "Rapid mood swings (mania and depression)",
-      "Reduced sleep",
+      "Reduced sleep (feeling rested after 3 hours)",
       "Rapid speech/thoughts",
-      "Risky behavior"
+      "Risky/impulsive behavior",
+      "Severe difficulty focusing"
     ],
     "category": "Dangerous",
     "specialty": "Psychiatrist",
@@ -386,10 +410,11 @@
   {
     "disease_name": "Appendicitis",
     "symptoms": [
-      "Severe pain in lower right abdomen",
-      "Vomiting",
+      "Severe pain starting around naval and shifting to lower right abdomen",
+      "Vomiting/Nausea",
       "Fever",
-      "Abdominal swelling"
+      "Abdominal swelling",
+      "Loss of appetite"
     ],
     "category": "Dangerous",
     "specialty": "General Surgeon",
@@ -404,8 +429,9 @@
     "symptoms": [
       "Severe watery diarrhea (rice-water stool)",
       "Vomiting",
-      "Severe dehydration",
-      "Leg cramps"
+      "Signs of severe dehydration (dry mouth, sunken eyes)",
+      "Leg cramps",
+      "Low blood pressure"
     ],
     "category": "Dangerous",
     "specialty": "Infectious Disease Specialist",
@@ -420,7 +446,8 @@
     "symptoms": [
       "Often asymptomatic",
       "Mild headache (sometimes)",
-      "Fatigue"
+      "Fatigue",
+      "Occasional dizziness"
     ],
     "category": "Normal",
     "specialty": "PCP/Cardiologist",
@@ -433,7 +460,9 @@
   {
     "disease_name": "High Cholesterol (Hyperlipidemia)",
     "symptoms": [
-      "Often asymptomatic"
+      "Often asymptomatic",
+      "Chest pain (only if severe plaque buildup)",
+      "Xanthomas (fatty deposits under skin)"
     ],
     "category": "Mild",
     "specialty": "PCP/Cardiologist",
@@ -446,9 +475,10 @@
   {
     "disease_name": "Obesity/Overweight (Mild-Moderate)",
     "symptoms": [
-      "Excess body weight",
+      "Excess body weight (High BMI)",
       "Fatigue",
-      "Mild shortness of breath"
+      "Mild shortness of breath",
+      "Joint pain"
     ],
     "category": "Mild",
     "specialty": "PCP/Dietitian",
@@ -463,7 +493,8 @@
     "symptoms": [
       "Often asymptomatic",
       "Mild pain/fullness in upper right abdomen",
-      "Fatigue"
+      "Fatigue",
+      "Mild confusion"
     ],
     "category": "Mild",
     "specialty": "Gastroenterologist",
@@ -479,7 +510,8 @@
       "Irregular periods",
       "Excess facial/body hair",
       "Acne",
-      "Weight gain"
+      "Weight gain",
+      "Thinning hair on scalp"
     ],
     "category": "Normal",
     "specialty": "Gynecologist/Endocrinologist",
@@ -492,7 +524,9 @@
   {
     "disease_name": "Type 2 Diabetes (Controlled)",
     "symptoms": [
-      "Symptoms regularly controlled"
+      "Symptoms regularly controlled",
+      "No severe thirst/urination",
+      "Fatigue (mild)"
     ],
     "category": "Normal",
     "specialty": "Endocrinologist",
@@ -525,7 +559,8 @@
       "Severe pelvic pain during periods",
       "Pain during intercourse",
       "Chronic lower back pain",
-      "Painful bowel movements"
+      "Painful bowel movements",
+      "Heavy bleeding"
     ],
     "category": "Normal",
     "specialty": "Gynecologist",
@@ -540,7 +575,8 @@
     "symptoms": [
       "Persistent ache or stiffness in joints",
       "Swelling (sometimes)",
-      "Reduced range of motion"
+      "Reduced range of motion",
+      "Pain worsens with activity"
     ],
     "category": "Normal",
     "specialty": "Orthopedic Specialist",
@@ -555,7 +591,8 @@
     "symptoms": [
       "Persistent ache or stiffness in the back",
       "Pain radiating down the leg (sciatica)",
-      "Limited mobility"
+      "Limited mobility",
+      "Difficulty standing up straight"
     ],
     "category": "Normal",
     "specialty": "Orthopedic Specialist",
@@ -568,10 +605,11 @@
   {
     "disease_name": "Generalized Anxiety Disorder (Mild-Moderate)",
     "symptoms": [
-      "Excessive worry",
+      "Excessive worry (difficult to control)",
       "Restlessness/on edge",
       "Difficulty concentrating",
-      "Muscle tension"
+      "Muscle tension",
+      "Irritability"
     ],
     "category": "Normal",
     "specialty": "Psychiatrist/Psychologist",
@@ -584,10 +622,11 @@
   {
     "disease_name": "Clinical Depression (Mild-Moderate)",
     "symptoms": [
-      "Persistent sadness/hopelessness",
+      "Persistent sadness/hopelessness (lasting $>2$ weeks)",
       "Loss of interest (anhedonia)",
       "Changes in appetite/sleep",
-      "Low energy"
+      "Low energy/Fatigue",
+      "Difficulty concentrating"
     ],
     "category": "Normal",
     "specialty": "Psychiatrist/Psychologist",
@@ -602,7 +641,8 @@
     "symptoms": [
       "Dull, aching pain around the head",
       "Tight band sensation",
-      "Not severe, no nausea"
+      "Not severe, no nausea",
+      "Sensitivity to neck/shoulder muscles"
     ],
     "category": "Normal",
     "specialty": "PCP/Neurologist",
@@ -618,7 +658,8 @@
       "Severe throbbing/pulsing pain",
       "Usually one side of the head",
       "Nausea/Vomiting",
-      "Sensitivity to light/sound"
+      "Sensitivity to light/sound",
+      "Visual disturbances (Aura)"
     ],
     "category": "Normal",
     "specialty": "Neurologist",
@@ -633,7 +674,8 @@
     "symptoms": [
       "Joint pain that worsens with activity",
       "Stiffness after rest",
-      "Grating sensation in joints"
+      "Grating sensation in joints",
+      "Reduced joint flexibility"
     ],
     "category": "Normal",
     "specialty": "Orthopedic Specialist",
@@ -648,7 +690,8 @@
     "symptoms": [
       "Often asymptomatic until a fracture occurs",
       "Loss of height",
-      "Stooped posture"
+      "Stooped posture",
+      "Back pain (caused by compressed vertebra)"
     ],
     "category": "Normal",
     "specialty": "Endocrinologist",
@@ -663,7 +706,8 @@
     "symptoms": [
       "Numbness/tingling in thumb, index, middle fingers",
       "Weakness in hand grip",
-      "Worse at night"
+      "Pain worse at night",
+      "Shooting pain up the arm"
     ],
     "category": "Normal",
     "specialty": "Orthopedic Surgeon",
@@ -679,7 +723,8 @@
       "Frequent/urgent need to urinate",
       "Difficulty starting urination",
       "Weak urine stream",
-      "Waking up at night to urinate"
+      "Waking up at night to urinate",
+      "Feeling of incomplete bladder emptying"
     ],
     "category": "Normal",
     "specialty": "Urologist",
@@ -695,7 +740,8 @@
       "Runny/stuffy nose",
       "Sneezing",
       "Itchy/watery eyes",
-      "Post-nasal drip"
+      "Post-nasal drip",
+      "Throat irritation"
     ],
     "category": "Normal",
     "specialty": "Allergist/Immunologist",
@@ -710,7 +756,8 @@
     "symptoms": [
       "Psoriasis: Red, flaky, silvery patches (plaques)",
       "Vitiligo: Loss of skin color in patches",
-      "Itching"
+      "Itching",
+      "Nail changes"
     ],
     "category": "Normal",
     "specialty": "Dermatologist",
@@ -726,7 +773,8 @@
       "Fatigue/Weakness",
       "Pale skin (pallor)",
       "Shortness of breath",
-      "Dizziness"
+      "Dizziness",
+      "Fast heartbeat"
     ],
     "category": "Normal",
     "specialty": "PCP/Hematologist",
@@ -741,7 +789,8 @@
     "symptoms": [
       "Muscle weakness/bone pain",
       "Fatigue",
-      "Frequent illness"
+      "Frequent illness",
+      "Depression"
     ],
     "category": "Normal",
     "specialty": "PCP/Endocrinologist",
@@ -757,7 +806,8 @@
       "Wheezing (whistling sound during breathing)",
       "Coughing (especially at night/exercise)",
       "Chest tightness",
-      "Shortness of breath"
+      "Shortness of breath",
+      "Difficulty speaking during attack"
     ],
     "category": "Normal",
     "specialty": "Pulmonologist",
@@ -772,7 +822,8 @@
     "symptoms": [
       "Difficulty falling or staying asleep",
       "Waking up too early",
-      "Daytime fatigue"
+      "Daytime fatigue",
+      "Irritability"
     ],
     "category": "Normal",
     "specialty": "Sleep Specialist/PCP",
@@ -787,7 +838,8 @@
     "symptoms": [
       "Tooth pain (especially when eating sweets)",
       "Sensitivity to hot/cold",
-      "Visible pits/holes in the tooth"
+      "Visible pits/holes in the tooth",
+      "Bad breath"
     ],
     "category": "Normal",
     "specialty": "Dentist",
@@ -802,7 +854,8 @@
     "symptoms": [
       "Red, swollen gums",
       "Gums that bleed easily when brushing",
-      "Bad breath (halitosis)"
+      "Bad breath (halitosis)",
+      "Receding gums"
     ],
     "category": "Normal",
     "specialty": "Dentist/Periodontist",
@@ -817,7 +870,8 @@
     "symptoms": [
       "Blurred vision (near/far)",
       "Headaches",
-      "Eye strain"
+      "Eye strain",
+      "Squinting"
     ],
     "category": "Normal",
     "specialty": "Optometrist/Ophthalmologist",
@@ -833,7 +887,8 @@
       "Cloudy/blurry vision",
       "Poor night vision",
       "Fading of colors",
-      "Halos around lights"
+      "Halos around lights",
+      "Frequent changes in eyeglass prescription"
     ],
     "category": "Normal",
     "specialty": "Ophthalmologist",
@@ -848,7 +903,8 @@
     "symptoms": [
       "Difficulty hearing high-pitched sounds",
       "Trouble following conversations in noisy places",
-      "Often asking others to repeat"
+      "Often asking others to repeat",
+      "Tinnitus"
     ],
     "category": "Normal",
     "specialty": "ENT/Audiologist",
@@ -863,7 +919,8 @@
     "symptoms": [
       "Itchy, red, circular rash (Ringworm)",
       "Flaking/peeling skin",
-      "Burning sensation"
+      "Burning sensation",
+      "Spreading rash"
     ],
     "category": "Normal",
     "specialty": "Dermatologist",
@@ -878,7 +935,8 @@
     "symptoms": [
       "Pimples, blackheads, whiteheads",
       "Oily skin",
-      "Inflammatory cysts/nodules (severe)"
+      "Inflammatory cysts/nodules (severe)",
+      "Scarring"
     ],
     "category": "Normal",
     "specialty": "Dermatologist",
@@ -893,7 +951,8 @@
     "symptoms": [
       "Dry, itchy, red patches of skin",
       "Cracked/scaly skin",
-      "Often on hands, neck, inner elbows, knees"
+      "Often on hands, neck, inner elbows, knees",
+      "Worse in cold or dry weather"
     ],
     "category": "Normal",
     "specialty": "Dermatologist",
@@ -908,7 +967,8 @@
     "symptoms": [
       "Round, patchy hair loss (often coin-sized)",
       "May affect scalp or body hair",
-      "Usually no pain or inflammation"
+      "Usually no pain or inflammation",
+      "Nail pitting"
     ],
     "category": "Normal",
     "specialty": "Dermatologist",
@@ -924,7 +984,8 @@
       "Pain/burning during urination (dysuria)",
       "Frequent/urgent need to urinate",
       "Cloudy/strong-smelling urine",
-      "Lower abdominal discomfort"
+      "Lower abdominal discomfort",
+      "Feeling of incomplete bladder emptying"
     ],
     "category": "Normal",
     "specialty": "PCP/Urologist",
@@ -940,7 +1001,8 @@
       "Ear pain (otalgia)",
       "Fever",
       "Difficulty hearing",
-      "Fluid drainage (sometimes)"
+      "Fluid drainage (sometimes)",
+      "Tugging at ear (in children)"
     ],
     "category": "Normal",
     "specialty": "PCP/ENT",
@@ -955,7 +1017,9 @@
     "symptoms": [
       "Sudden pain in muscle/joint after injury",
       "Swelling/bruising",
-      "Difficulty using the affected area"
+      "Difficulty using the affected area",
+      "Limited movement",
+      "Stiffness"
     ],
     "category": "Normal",
     "specialty": "PCP/Physical Therapist",
@@ -985,7 +1049,8 @@
       "Persistent cough (often with mucus)",
       "Sore throat",
       "Chest discomfort",
-      "Mild fever"
+      "Mild fever",
+      "Shortness of breath (mild)"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1001,7 +1066,8 @@
       "Severe fatigue",
       "High fever",
       "Swollen lymph nodes in neck/armpits",
-      "Severe sore throat"
+      "Severe sore throat",
+      "Headache"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1017,7 +1083,8 @@
       "Nausea/Vomiting",
       "Diarrhea (loose/watery stools)",
       "Abdominal cramps",
-      "Mild fever (sometimes)"
+      "Mild fever (sometimes)",
+      "Dehydration"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1033,7 +1100,8 @@
       "Fatigue",
       "Jaundice (yellow skin/eyes)",
       "Dark urine/pale stools",
-      "Nausea/Vomiting"
+      "Nausea/Vomiting",
+      "Abdominal pain"
     ],
     "category": "Normal",
     "specialty": "Infectious Disease Specialist",
@@ -1049,7 +1117,8 @@
       "Cyclical high fever with chills/shivering",
       "Severe headache",
       "Body aches",
-      "Nausea/Vomiting"
+      "Nausea/Vomiting",
+      "Fatigue"
     ],
     "category": "Normal",
     "specialty": "Infectious Disease Specialist",
@@ -1065,7 +1134,8 @@
       "Sudden high fever",
       "Severe joint/muscle pain (breakbone fever)",
       "Rash (sometimes)",
-      "Pain behind the eyes"
+      "Pain behind the eyes",
+      "Fatigue"
     ],
     "category": "Normal",
     "specialty": "Infectious Disease Specialist",
@@ -1081,7 +1151,8 @@
       "Fewer than 3 bowel movements per week",
       "Hard/dry stools",
       "Straining during bowel movements",
-      "Feeling of incomplete evacuation"
+      "Feeling of incomplete evacuation",
+      "Abdominal bloating"
     ],
     "category": "Normal",
     "specialty": "PCP/Gastroenterologist",
@@ -1096,7 +1167,8 @@
     "symptoms": [
       "Burning sensation in the chest (heartburn)",
       "Sour or bitter taste in the throat/mouth",
-      "Difficulty swallowing (dysphagia)"
+      "Difficulty swallowing (dysphagia)",
+      "Chronic cough"
     ],
     "category": "Normal",
     "specialty": "Gastroenterologist",
@@ -1110,7 +1182,9 @@
     "disease_name": "Nausea and Vomiting (Acute)",
     "symptoms": [
       "Feeling of sickness in the stomach",
-      "Throwing up food/fluid"
+      "Throwing up food/fluid",
+      "Abdominal discomfort",
+      "Loss of appetite"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1124,8 +1198,9 @@
     "disease_name": "Hemorrhoids (Piles)",
     "symptoms": [
       "Pain/itching around the anus",
-      "Bleeding during bowel movements",
-      "A lump/swelling near the anus"
+      "Bleeding during bowel movements (bright red blood)",
+      "A lump/swelling near the anus",
+      "Discomfort when sitting"
     ],
     "category": "Normal",
     "specialty": "PCP/Gastroenterologist",
@@ -1139,7 +1214,9 @@
     "disease_name": "Minor Headache",
     "symptoms": [
       "Mild, localized pain in the head",
-      "Non-disruptive to daily activity"
+      "Non-disruptive to daily activity",
+      "Neck stiffness (mild)",
+      "Tension"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1154,7 +1231,8 @@
     "symptoms": [
       "Pain/scratchiness in the throat",
       "Difficulty swallowing",
-      "Redness/swelling of the tonsils"
+      "Redness/swelling of the tonsils",
+      "Fever (sometimes)"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1168,7 +1246,8 @@
     "disease_name": "Tinnitus",
     "symptoms": [
       "Ringing, buzzing, or roaring sound in the ears",
-      "May be intermittent or continuous"
+      "May be intermittent or continuous",
+      "Associated with hearing loss (sometimes)"
     ],
     "category": "Normal",
     "specialty": "ENT/Audiologist",
@@ -1182,7 +1261,8 @@
     "disease_name": "Dizziness / Vertigo",
     "symptoms": [
       "Dizziness: Feeling lightheaded, unsteady.",
-      "Vertigo: Sensation of spinning/moving (even when stationary)."
+      "Vertigo: Sensation of spinning/moving (even when stationary).",
+      "Nausea/vomiting"
     ],
     "category": "Normal",
     "specialty": "ENT/Neurologist",
@@ -1198,7 +1278,8 @@
       "Excessive mucus/phlegm buildup in the nose/throat",
       "Stuffy nose",
       "Post-nasal drip",
-      "Throat clearing"
+      "Throat clearing",
+      "Cough"
     ],
     "category": "Normal",
     "specialty": "ENT",
@@ -1213,7 +1294,8 @@
     "symptoms": [
       "Red, swollen, warm skin area",
       "Pain/tenderness at the site",
-      "Fever/Chills"
+      "Fever/Chills",
+      "Spreading redness"
     ],
     "category": "Normal",
     "specialty": "PCP/Infectious Disease Specialist",
@@ -1228,7 +1310,8 @@
     "symptoms": [
       "Loose, watery stools",
       "Abdominal cramps",
-      "Nausea/Vomiting (sometimes)"
+      "Nausea/Vomiting (sometimes)",
+      "Fever"
     ],
     "category": "Normal",
     "specialty": "PCP",
@@ -1244,7 +1327,8 @@
       "Runny nose",
       "sneezing",
       "mild sore throat",
-      "congestion"
+      "congestion",
+      "low-grade fever"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1276,7 +1360,8 @@
     "symptoms": [
       "High body temperature (>99.5°F)",
       "chills",
-      "sweating"
+      "sweating",
+      "body aches"
     ],
     "category": "Normal",
     "specialty": "General Practitioner (GP)",
@@ -1291,7 +1376,8 @@
     "symptoms": [
       "Dry or wet cough",
       "throat irritation",
-      "chest congestion"
+      "chest congestion",
+      "hoarseness"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1305,20 +1391,24 @@
     "disease_name": "Sore Throat",
     "symptoms": [
       "Pain/scratchiness in the throat",
-      "difficulty swallowing"
+      "difficulty swallowing",
+      "Redness/swelling of the tonsils",
+      "Fever"
     ],
-    "category": "Mild",
-    "specialty": "General Practitioner (GP)",
-    "timeline_s1_days": 2,
+    "category": "Normal",
+    "specialty": "PCP",
+    "timeline_s1_days": 3,
     "timeline_s2_days": 7,
     "s1_action": "Lozenges, saltwater gargles, warm fluids, pain relief (Acetaminophen/Ibuprofen).",
-    "s2_action": "Throat spray, OTC anti-inflammatory medication.",
-    "s3_trigger": "Severe difficulty swallowing/breathing, fever, white patches on tonsils."
+    "s2_action": "Consult PCP if severe, lasts $>5$ days, or for Strep test/prescribed antibiotics.",
+    "s3_trigger": "Severe difficulty breathing or inability to swallow saliva (Seek urgent care)."
   },
   {
     "disease_name": "Headache",
     "symptoms": [
-      "Dull or throbbing pain in the head"
+      "Dull or throbbing pain in the head",
+      "Sensitivity to light",
+      "Neck tension"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1333,7 +1423,8 @@
     "symptoms": [
       "Severe, pulsing pain on one side of the head",
       "sensitivity to light/sound",
-      "nausea"
+      "nausea",
+      "visual disturbances"
     ],
     "category": "Normal",
     "specialty": "Neurologist",
@@ -1348,7 +1439,8 @@
     "symptoms": [
       "Loose, watery stools",
       "urgency",
-      "abdominal cramps"
+      "abdominal cramps",
+      "dehydration"
     ],
     "category": "Normal",
     "specialty": "General Practitioner (GP)",
@@ -1363,7 +1455,8 @@
     "symptoms": [
       "Infrequent bowel movements",
       "difficulty passing stool",
-      "bloating"
+      "bloating",
+      "abdominal discomfort"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1378,7 +1471,8 @@
     "symptoms": [
       "Discomfort/pain in the upper abdomen",
       "feeling full",
-      "burping"
+      "burping",
+      "bloating"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1392,7 +1486,9 @@
     "disease_name": "Vomiting / Nausea",
     "symptoms": [
       "Feeling sick to the stomach",
-      "forceful emptying of stomach"
+      "forceful emptying of stomach",
+      "loss of appetite",
+      "dehydration"
     ],
     "category": "Normal",
     "specialty": "General Practitioner (GP)",
@@ -1406,7 +1502,9 @@
     "disease_name": "Acidity / Heartburn",
     "symptoms": [
       "Burning pain in the chest/throat",
-      "sour taste"
+      "sour taste",
+      "chest discomfort",
+      "burping"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1439,7 +1537,8 @@
       "Redness",
       "watering",
       "itchiness",
-      "discharge from the eye"
+      "discharge from the eye",
+      "crusting of eyelids"
     ],
     "category": "Mild",
     "specialty": "Ophthalmologist/GP",
@@ -1455,7 +1554,8 @@
       "Pimples",
       "blackheads",
       "whiteheads",
-      "cysts on the skin"
+      "cysts on the skin",
+      "oily skin"
     ],
     "category": "Mild",
     "specialty": "Dermatologist",
@@ -1470,7 +1570,8 @@
     "symptoms": [
       "Muscle ache",
       "stabbing pain",
-      "pain radiating down the leg"
+      "pain radiating down the leg",
+      "stiffness"
     ],
     "category": "Normal",
     "specialty": "Orthopedist/GP",
@@ -1486,7 +1587,8 @@
       "Stiffness",
       "soreness",
       "swelling",
-      "warmth in joints (e.g., knee, shoulder)"
+      "warmth in joints (e.g., knee, shoulder)",
+      "reduced range of motion"
     ],
     "category": "Normal",
     "specialty": "Orthopedist/GP",
@@ -1502,7 +1604,8 @@
       "Pain",
       "swelling",
       "bruising",
-      "limited movement near a joint (e.g., ankle)"
+      "limited movement near a joint (e.g., ankle)",
+      "difficulty bearing weight"
     ],
     "category": "Normal",
     "specialty": "Orthopedist/GP",
@@ -1517,7 +1620,8 @@
     "symptoms": [
       "Sudden pain",
       "stiffness",
-      "limited movement in a muscle (e.g., hamstring)"
+      "limited movement in a muscle (e.g., hamstring)",
+      "tenderness"
     ],
     "category": "Mild",
     "specialty": "General Practitioner (GP)",
@@ -1531,7 +1635,9 @@
     "disease_name": "Insomnia",
     "symptoms": [
       "Difficulty falling or staying asleep",
-      "poor sleep quality"
+      "poor sleep quality",
+      "waking up too early",
+      "daytime fatigue"
     ],
     "category": "Normal",
     "specialty": "General Practitioner (GP) / Sleep Specialist",
@@ -1547,7 +1653,8 @@
       "Worry",
       "nervousness",
       "fast heart rate",
-      "restlessness"
+      "restlessness",
+      "muscle tension"
     ],
     "category": "Normal",
     "specialty": "Psychiatrist / Psychologist",
@@ -1562,7 +1669,8 @@
     "symptoms": [
       "Often none (Silent Killer)",
       "sometimes headache",
-      "dizziness"
+      "dizziness",
+      "facial flushing"
     ],
     "category": "Dangerous",
     "specialty": "Cardiologist/GP",
@@ -1578,7 +1686,8 @@
       "Increased thirst",
       "frequent urination",
       "fatigue",
-      "blurred vision"
+      "blurred vision",
+      "slow healing sores"
     ],
     "category": "Dangerous",
     "specialty": "Endocrinologist",
