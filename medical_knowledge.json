@@ -14,7 +14,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for chest pain/shortness of breath."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care immediately* for chest pain/shortness of breath."
   },
   {
     "disease_name": "Stroke (Cerebrovascular Disease)",
@@ -31,7 +31,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately (F.A.S.T. signs)**."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care immediately (F.A.S.T. signs)*."
   },
   {
     "disease_name": "Type 2 Diabetes (Uncontrolled)",
@@ -65,7 +65,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Nephrologist as soon as possible** for staging and treatment plan."
+    "s3_trigger": "Immediate action required. Consult a *Nephrologist as soon as possible* for staging and treatment plan."
   },
   {
     "disease_name": "Chronic Obstructive Pulmonary Disease (COPD)",
@@ -82,7 +82,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Pulmonologist immediately** to start a management plan, especially if breathlessness worsens rapidly."
+    "s3_trigger": "Immediate action required. Consult a *Pulmonologist immediately* to start a management plan, especially if breathlessness worsens rapidly."
   },
   {
     "disease_name": "Common Cancers (Oral, Breast, Lung)",
@@ -99,7 +99,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a doctor **immediately** for diagnosis and testing."
+    "s3_trigger": "Immediate action required. Consult a doctor *immediately* for diagnosis and testing."
   },
   {
     "disease_name": "Tuberculosis (TB)",
@@ -116,7 +116,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a doctor **immediately** for testing and to start the required antibiotic regimen."
+    "s3_trigger": "Immediate action required. Consult a doctor *immediately* for testing and to start the required antibiotic regimen."
   },
   {
     "disease_name": "HIV/AIDS",
@@ -133,7 +133,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult an **Infectious Disease specialist immediately** for testing and to start ART (Antiretroviral Therapy)."
+    "s3_trigger": "Immediate action required. Consult an *Infectious Disease specialist immediately* for testing and to start ART (Antiretroviral Therapy)."
   },
   {
     "disease_name": "Dementia/Alzheimer's Disease",
@@ -150,7 +150,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Neurologist** for diagnosis and to initiate symptom management."
+    "s3_trigger": "Immediate action required. Consult a *Neurologist* for diagnosis and to initiate symptom management."
   },
   {
     "disease_name": "Severe Depression/Anxiety",
@@ -167,7 +167,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Psychiatrist immediately**. Seek **emergency help** if suicidal thoughts are present."
+    "s3_trigger": "Immediate action required. Consult a *Psychiatrist immediately. Seek **emergency help* if suicidal thoughts are present."
   },
   {
     "disease_name": "Hypertension (Uncontrolled/Severe)",
@@ -184,7 +184,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care** if BP $\\ge 180/120$ with severe symptoms."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care* if BP $\\ge 180/120$ with severe symptoms."
   },
   {
     "disease_name": "Chronic Liver Disease (Cirrhosis)",
@@ -201,7 +201,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Hepatologist immediately** for management and monitoring."
+    "s3_trigger": "Immediate action required. Consult a *Hepatologist immediately* for management and monitoring."
   },
   {
     "disease_name": "Severe Pneumonia / Lower Respiratory Infection",
@@ -218,7 +218,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek medical care **immediately**, especially if breathing is difficult or fever is high."
+    "s3_trigger": "Immediate action required. Seek medical care *immediately*, especially if breathing is difficult or fever is high."
   },
   {
     "disease_name": "Severe Injuries (Accidents, Burns)",
@@ -235,7 +235,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately (call emergency services)**."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care immediately (call emergency services)*."
   },
   {
     "disease_name": "Severe Hearing Loss (Disabling)",
@@ -252,7 +252,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "If **Sudden**: Consult ENT within 72 hours. If Gradual: See ENT/Audiologist within 14 days."
+    "s3_trigger": "If *Sudden*: Consult ENT within 72 hours. If Gradual: See ENT/Audiologist within 14 days."
   },
   {
     "disease_name": "Rheumatoid Arthritis (RA)",
@@ -269,7 +269,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Rheumatologist immediately** to prevent joint damage."
+    "s3_trigger": "Immediate action required. Consult a *Rheumatologist immediately* to prevent joint damage."
   },
   {
     "disease_name": "Systemic Lupus Erythematosus (Lupus)",
@@ -286,7 +286,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Rheumatologist immediately** for diagnosis and management."
+    "s3_trigger": "Immediate action required. Consult a *Rheumatologist immediately* for diagnosis and management."
   },
   {
     "disease_name": "Inflammatory Bowel Disease (IBD)",
@@ -303,7 +303,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Gastroenterologist immediately** for diagnosis and treatment."
+    "s3_trigger": "Immediate action required. Consult a *Gastroenterologist immediately* for diagnosis and treatment."
   },
   {
     "disease_name": "Type 1 Diabetes Mellitus",
@@ -320,7 +320,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek medical care **immediately** to start life-saving insulin therapy."
+    "s3_trigger": "Immediate action required. Seek medical care *immediately* to start life-saving insulin therapy."
   },
   {
     "disease_name": "Glaucoma",
@@ -337,7 +337,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. (If Acute Angle-Closure). Consult **Ophthalmologist immediately** for vision loss."
+    "s3_trigger": "Immediate action required. (If Acute Angle-Closure). Consult *Ophthalmologist immediately* for vision loss."
   },
   {
     "disease_name": "Macular Degeneration (AMD)",
@@ -354,7 +354,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "Routine follow-up/supplements.",
-    "s3_trigger": "If **Sudden**: Consult Retina Specialist immediately. S2 (Dry): Routine follow-up/supplements."
+    "s3_trigger": "If *Sudden*: Consult Retina Specialist immediately. S2 (Dry): Routine follow-up/supplements."
   },
   {
     "disease_name": "Cervical Cancer",
@@ -371,7 +371,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Gynecologist immediately** for testing (Pap smear, biopsy)."
+    "s3_trigger": "Immediate action required. Consult a *Gynecologist immediately* for testing (Pap smear, biopsy)."
   },
   {
     "disease_name": "Acute Leukemia",
@@ -388,7 +388,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek medical care **immediately** for urgent diagnosis and life-saving treatment."
+    "s3_trigger": "Immediate action required. Seek medical care *immediately* for urgent diagnosis and life-saving treatment."
   },
   {
     "disease_name": "Bipolar Disorder",
@@ -405,7 +405,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Consult a **Psychiatrist immediately**. Seek **emergency help** if risk of harm is high."
+    "s3_trigger": "Immediate action required. Consult a *Psychiatrist immediately. Seek **emergency help* if risk of harm is high."
   },
   {
     "disease_name": "Appendicitis",
@@ -422,7 +422,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "Stop eating/drinking; avoid pain relievers that hide diagnosis.",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for sudden, shifting lower right abdominal pain."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care immediately* for sudden, shifting lower right abdominal pain."
   },
   {
     "disease_name": "Cholera",
@@ -439,7 +439,7 @@
     "timeline_s2_days": "N/A",
     "s1_action": "N/A",
     "s2_action": "N/A",
-    "s3_trigger": "Immediate action required. Seek **emergency medical care immediately** for rapid, severe dehydration."
+    "s3_trigger": "Immediate action required. Seek *emergency medical care immediately* for rapid, severe dehydration."
   },
   {
     "disease_name": "Hypertension (Controlled/Stage I)",
@@ -815,7 +815,7 @@
     "timeline_s2_days": 7,
     "s1_action": "Always carry and use prescribed rescue inhaler (e.g., Salbutamol) during attacks.",
     "s2_action": "Consult doctor for control medication/management plan. Identify and avoid triggers.",
-    "s3_trigger": "If rescue inhaler is ineffective, or symptoms worsen rapidly (Seek **emergency care**)."
+    "s3_trigger": "If rescue inhaler is ineffective, or symptoms worsen rapidly (Seek *emergency care*)."
   },
   {
     "disease_name": "Insomnia (Acute/Stress-related)",
@@ -846,7 +846,7 @@
     "timeline_s1_days": 1,
     "timeline_s2_days": 7,
     "s1_action": "Maintain good oral hygiene; use OTC pain relief (Acetaminophen/Ibuprofen) temporarily.",
-    "s2_action": "Consult a Dentist **immediately** for a filling or other necessary treatment (e.g., root canal).",
+    "s2_action": "Consult a Dentist *immediately* for a filling or other necessary treatment (e.g., root canal).",
     "s3_trigger": "Severe, throbbing, unrelenting tooth pain, or facial swelling (Urgent dental care)."
   },
   {
@@ -992,7 +992,7 @@
     "timeline_s1_days": 1,
     "timeline_s2_days": 1,
     "s1_action": "Drink plenty of water, use Phenazopyridine (Symptom relief only).",
-    "s2_action": "Consult PCP **immediately** for prescribed antibiotics (requires urine culture).",
+    "s2_action": "Consult PCP *immediately* for prescribed antibiotics (requires urine culture).",
     "s3_trigger": "If fever, back/flank pain, nausea/vomiting (Kidney infection - Seek urgent care)."
   },
   {
@@ -1041,7 +1041,7 @@
     "timeline_s2_days": 14,
     "s1_action": "Rest, hydrate, use symptom relief (Acetaminophen/Ibuprofen, decongestants, cough suppressants).",
     "s2_action": "Flu: Consult PCP within 48 hours of onset for antiviral medication.",
-    "s3_trigger": "If severe shortness of breath/chest pain, confusion, or high fever not subsiding (Seek **emergency care**)."
+    "s3_trigger": "If severe shortness of breath/chest pain, confusion, or high fever not subsiding (Seek *emergency care*)."
   },
   {
     "disease_name": "Acute Bronchitis",
@@ -1107,7 +1107,7 @@
     "specialty": "Infectious Disease Specialist",
     "timeline_s1_days": 14,
     "timeline_s2_days": 30,
-    "s1_action": "Strict rest, hydration, **avoid all alcohol/Acetaminophen/NSAIDs** (harmful to liver).",
+    "s1_action": "Strict rest, hydration, *avoid all alcohol/Acetaminophen/NSAIDs* (harmful to liver).",
     "s2_action": "Consult Specialist for supportive management and monitoring of liver function.",
     "s3_trigger": "Signs of hepatic failure (severe confusion, bleeding, severe vomiting - Emergency)."
   },
@@ -1125,8 +1125,8 @@
     "timeline_s1_days": 1,
     "timeline_s2_days": 1,
     "s1_action": "Use Acetaminophen/Ibuprofen for symptom relief only. Hydrate.",
-    "s2_action": "Seek **immediate blood test/treatment** with prescribed antimalarials as directed by doctor.",
-    "s3_trigger": "If severe symptoms (convulsions, unconsciousness, severe breathing difficulty) seek **emergency care**."
+    "s2_action": "Seek *immediate blood test/treatment* with prescribed antimalarials as directed by doctor.",
+    "s3_trigger": "If severe symptoms (convulsions, unconsciousness, severe breathing difficulty) seek *emergency care*."
   },
   {
     "disease_name": "Dengue Fever (Uncomplicated)",
@@ -1141,9 +1141,9 @@
     "specialty": "Infectious Disease Specialist",
     "timeline_s1_days": 7,
     "timeline_s2_days": 1,
-    "s1_action": "Use **Acetaminophen only** (AVOID NSAIDs/Aspirin). Maintain high hydration.",
-    "s2_action": "Consult doctor **immediately** for monitoring (platelet count) and hydration management.",
-    "s3_trigger": "If severe abdominal pain, persistent vomiting, bleeding from nose/gums, or cold/clammy skin (Dengue Hemorrhagic Fever - Seek **emergency care**)."
+    "s1_action": "Use *Acetaminophen only* (AVOID NSAIDs/Aspirin). Maintain high hydration.",
+    "s2_action": "Consult doctor *immediately* for monitoring (platelet count) and hydration management.",
+    "s3_trigger": "If severe abdominal pain, persistent vomiting, bleeding from nose/gums, or cold/clammy skin (Dengue Hemorrhagic Fever - Seek *emergency care*)."
   },
   {
     "disease_name": "Constipation",
@@ -1270,7 +1270,7 @@
     "timeline_s2_days": 7,
     "s1_action": "Sit down immediately, move slowly, avoid sudden position changes. OTC Meclizine (for vertigo).",
     "s2_action": "Consult ENT/Neurologist for diagnosis (e.g., BPPV, Meniere's disease).",
-    "s3_trigger": "If accompanied by severe headache, weakness, slurred speech, chest pain (Seek **emergency care**)."
+    "s3_trigger": "If accompanied by severe headache, weakness, slurred speech, chest pain (Seek *emergency care*)."
   },
   {
     "disease_name": "Catarrh",
@@ -1302,8 +1302,8 @@
     "timeline_s1_days": 1,
     "timeline_s2_days": 1,
     "s1_action": "Elevate the affected limb. Use Acetaminophen/Ibuprofen for symptoms.",
-    "s2_action": "Consult doctor **immediately** for prescribed antibiotics (requires rapid treatment).",
-    "s3_trigger": "If spreading rapidly, red streaking, or high fever/vomiting (Seek **emergency care**)."
+    "s2_action": "Consult doctor *immediately* for prescribed antibiotics (requires rapid treatment).",
+    "s3_trigger": "If spreading rapidly, red streaking, or high fever/vomiting (Seek *emergency care*)."
   },
   {
     "disease_name": "Diarrheal Diseases",
